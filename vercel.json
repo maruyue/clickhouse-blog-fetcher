@@ -1,0 +1,6 @@
+{
+  "buildCommand": "python3 fetch_posts.py",
+  "outputDirectory": "public",
+  "framework": null,
+  "installCommand": "echo 'no install needed'"
+}

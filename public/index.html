@@ -1,0 +1,235 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Latest ClickHouse Blog Posts</title>
+    <meta name="description" content="The latest 10 blog posts from ClickHouse engineering blog.">
+    <meta property="og:title" content="Latest ClickHouse Blog Posts">
+    <meta property="og:description" content="Auto-updated daily. The latest 10 posts from the ClickHouse engineering blog.">
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            background: #0a0a0a;
+            color: #e0e0e0;
+            min-height: 100vh;
+        }
+        .header {
+            background: linear-gradient(135deg, #1a1a2e 0%, #16213e 50%, #0f3460 100%);
+            padding: 60px 20px 40px;
+            text-align: center;
+            border-bottom: 2px solid #f0c040;
+        }
+        .header h1 {
+            font-size: 2.2rem;
+            color: #f0c040;
+            margin-bottom: 10px;
+            font-weight: 700;
+        }
+        .header .subtitle {
+            color: #a0a0a0;
+            font-size: 1rem;
+        }
+        .header .logo {
+            margin-bottom: 15px;
+            opacity: 0.9;
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 30px 20px;
+        }
+        .card {
+            display: flex;
+            align-items: flex-start;
+            gap: 20px;
+            background: #141414;
+            border: 1px solid #2a2a2a;
+            border-radius: 12px;
+            padding: 24px;
+            margin-bottom: 12px;
+            text-decoration: none;
+            color: inherit;
+            transition: all 0.2s ease;
+        }
+        .card:hover {
+            border-color: #f0c040;
+            background: #1a1a1a;
+            transform: translateX(4px);
+        }
+        .card-number {
+            font-size: 1.5rem;
+            font-weight: 700;
+            color: #f0c040;
+            min-width: 40px;
+            opacity: 0.7;
+        }
+        .card-content h2 {
+            font-size: 1.15rem;
+            color: #ffffff;
+            margin-bottom: 8px;
+            line-height: 1.4;
+            font-weight: 600;
+        }
+        .card-meta {
+            display: flex;
+            align-items: center;
+            gap: 15px;
+            font-size: 0.85rem;
+            color: #888;
+        }
+        .date {
+            color: #f0c040;
+            font-weight: 500;
+        }
+        .source {
+            color: #666;
+            font-size: 0.8rem;
+        }
+        .footer {
+            text-align: center;
+            padding: 40px 20px;
+            color: #555;
+            font-size: 0.85rem;
+        }
+        .footer a {
+            color: #f0c040;
+            text-decoration: none;
+        }
+        .updated {
+            text-align: center;
+            color: #666;
+            font-size: 0.8rem;
+            margin-bottom: 20px;
+        }
+        @media (max-width: 600px) {
+            .header h1 { font-size: 1.6rem; }
+            .card { padding: 16px; gap: 12px; }
+            .card-content h2 { font-size: 1rem; }
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <div class="logo">
+            <svg width="48" height="48" viewBox="0 0 48 48" fill="none">
+                <rect width="48" height="48" rx="8" fill="#f0c040"/>
+                <text x="24" y="31" text-anchor="middle" font-size="22" font-weight="800" fill="#0a0a0a">CH</text>
+            </svg>
+        </div>
+        <h1>Latest ClickHouse Blog Posts</h1>
+        <p class="subtitle">Auto-updated daily · The 10 most recent posts from clickhouse.com/blog</p>
+    </div>
+    
+    <div class="container">
+        <p class="updated">🕐 Last updated: 2026-04-30 23:48 UTC</p>
+        
+        <a href="https://clickhouse.com/blog/clickhousectl-compare-versions" target="_blank" rel="noopener" class="card">
+            <div class="card-number">01</div>
+            <div class="card-content">
+                <h2>Comparing ClickHouse versions with clickhousectl</h2>
+                <div class="card-meta">
+                    <span class="date">Apr 29, 2026</span>
+                    <span class="source">clickhouse.com →</span>
+                </div>
+            </div>
+        </a>
+        <a href="https://clickhouse.com/blog/google-next-2026-recap" target="_blank" rel="noopener" class="card">
+            <div class="card-number">02</div>
+            <div class="card-content">
+                <h2>ClickHouse at Google Cloud Next '26</h2>
+                <div class="card-meta">
+                    <span class="date">Apr 27, 2026</span>
+                    <span class="source">clickhouse.com →</span>
+                </div>
+            </div>
+        </a>
+        <a href="https://clickhouse.com/blog/pg_clickhouse-whats-new-april-2026" target="_blank" rel="noopener" class="card">
+            <div class="card-number">03</div>
+            <div class="card-content">
+                <h2>What's New in pg_clickhouse - JSONB Support, SQL value functions, Streaming, and more</h2>
+                <div class="card-meta">
+                    <span class="date">Apr 24, 2026</span>
+                    <span class="source">clickhouse.com →</span>
+                </div>
+            </div>
+        </a>
+        <a href="https://clickhouse.com/blog/elasticsearch-log-analytics-clickhouse" target="_blank" rel="noopener" class="card">
+            <div class="card-number">04</div>
+            <div class="card-content">
+                <h2>Do you still need Elasticsearch for log analytics? ClickHouse says no.</h2>
+                <div class="card-meta">
+                    <span class="date">Apr 23, 2026</span>
+                    <span class="source">clickhouse.com →</span>
+                </div>
+            </div>
+        </a>
+        <a href="https://clickhouse.com/blog/google-antigravity" target="_blank" rel="noopener" class="card">
+            <div class="card-number">05</div>
+            <div class="card-content">
+                <h2>Using the ClickHouse MCP server with Google Antigravity</h2>
+                <div class="card-meta">
+                    <span class="date">Apr 23, 2026</span>
+                    <span class="source">clickhouse.com →</span>
+                </div>
+            </div>
+        </a>
+        <a href="https://clickhouse.com/blog/google-lakehouse-runtime" target="_blank" rel="noopener" class="card">
+            <div class="card-number">06</div>
+            <div class="card-content">
+                <h2>ClickHouse integrates with Lakehouse Runtime Catalog</h2>
+                <div class="card-meta">
+                    <span class="date">Apr 22, 2026</span>
+                    <span class="source">clickhouse.com →</span>
+                </div>
+            </div>
+        </a>
+        <a href="https://clickhouse.com/blog/google-axion" target="_blank" rel="noopener" class="card">
+            <div class="card-number">07</div>
+            <div class="card-content">
+                <h2>ClickHouse Cloud on Google Cloud Now Powered by Google Axion Processors: 30–55% Faster Queries, ~15% Fewer Compute Credits</h2>
+                <div class="card-meta">
+                    <span class="date">Apr 22, 2026</span>
+                    <span class="source">clickhouse.com →</span>
+                </div>
+            </div>
+        </a>
+        <a href="https://clickhouse.com/blog/clickhouse-expands-strategic-collaboration-with-google-cloud" target="_blank" rel="noopener" class="card">
+            <div class="card-number">08</div>
+            <div class="card-content">
+                <h2>ClickHouse expands strategic collaboration with Google Cloud, bringing deeper integration, cloud flexibility, and next-generation performance</h2>
+                <div class="card-meta">
+                    <span class="date">Apr 22, 2026</span>
+                    <span class="source">clickhouse.com →</span>
+                </div>
+            </div>
+        </a>
+        <a href="https://clickhouse.com/blog/index-sharding-clickhouse-cloud-petabyte-scale-indexing" target="_blank" rel="noopener" class="card">
+            <div class="card-number">09</div>
+            <div class="card-content">
+                <h2>Index sharding in ClickHouse Cloud: Petabyte-scale data needs petabyte-scale indexing</h2>
+                <div class="card-meta">
+                    <span class="date">Apr 21, 2026</span>
+                    <span class="source">clickhouse.com →</span>
+                </div>
+            </div>
+        </a>
+        <a href="https://clickhouse.com/blog/terraform-ga" target="_blank" rel="noopener" class="card">
+            <div class="card-number">10</div>
+            <div class="card-content">
+                <h2>Terraform & OpenAPI for ClickPipes is now Generally Available</h2>
+                <div class="card-meta">
+                    <span class="date">Apr 23, 2026</span>
+                    <span class="source">clickhouse.com →</span>
+                </div>
+            </div>
+        </a>
+    </div>
+    
+    <div class="footer">
+        <p>Content sourced from <a href="https://clickhouse.com/blog" target="_blank">clickhouse.com/blog</a></p>
+        <p style="margin-top:4px;">Built with ♥ · <a href="https://github.com/maruyue/clickhouse-blog-fetcher" target="_blank">View on GitHub</a></p>
+    </div>
+</body>
+</html>

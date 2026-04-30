@@ -1,0 +1,8 @@
+{
+  "name": "clickhouse-blog-fetcher",
+  "version": "1.0.0",
+  "description": "Auto-updating site that displays latest 10 ClickHouse blog posts",
+  "scripts": {
+    "build": "python3 fetch_posts.py"
+  }
+}

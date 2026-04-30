@@ -1,0 +1,55 @@
+{
+  "updated_at": "2026-04-30T23:48:35.351947",
+  "posts": [
+    {
+      "title": "Comparing ClickHouse versions with clickhousectl",
+      "url": "https://clickhouse.com/blog/clickhousectl-compare-versions",
+      "date": "Apr 29, 2026"
+    },
+    {
+      "title": "ClickHouse at Google Cloud Next '26",
+      "url": "https://clickhouse.com/blog/google-next-2026-recap",
+      "date": "Apr 27, 2026"
+    },
+    {
+      "title": "What's New in pg_clickhouse - JSONB Support, SQL value functions, Streaming, and more",
+      "url": "https://clickhouse.com/blog/pg_clickhouse-whats-new-april-2026",
+      "date": "Apr 24, 2026"
+    },
+    {
+      "title": "Do you still need Elasticsearch for log analytics? ClickHouse says no.",
+      "url": "https://clickhouse.com/blog/elasticsearch-log-analytics-clickhouse",
+      "date": "Apr 23, 2026"
+    },
+    {
+      "title": "Using the ClickHouse MCP server with Google Antigravity",
+      "url": "https://clickhouse.com/blog/google-antigravity",
+      "date": "Apr 23, 2026"
+    },
+    {
+      "title": "ClickHouse integrates with Lakehouse Runtime Catalog",
+      "url": "https://clickhouse.com/blog/google-lakehouse-runtime",
+      "date": "Apr 22, 2026"
+    },
+    {
+      "title": "ClickHouse Cloud on Google Cloud Now Powered by Google Axion Processors: 30–55% Faster Queries, ~15% Fewer Compute Credits",
+      "url": "https://clickhouse.com/blog/google-axion",
+      "date": "Apr 22, 2026"
+    },
+    {
+      "title": "ClickHouse expands strategic collaboration with Google Cloud, bringing deeper integration, cloud flexibility, and next-generation performance",
+      "url": "https://clickhouse.com/blog/clickhouse-expands-strategic-collaboration-with-google-cloud",
+      "date": "Apr 22, 2026"
+    },
+    {
+      "title": "Index sharding in ClickHouse Cloud: Petabyte-scale data needs petabyte-scale indexing",
+      "url": "https://clickhouse.com/blog/index-sharding-clickhouse-cloud-petabyte-scale-indexing",
+      "date": "Apr 21, 2026"
+    },
+    {
+      "title": "Terraform & OpenAPI for ClickPipes is now Generally Available",
+      "url": "https://clickhouse.com/blog/terraform-ga",
+      "date": "Apr 23, 2026"
+    }
+  ]
+}
