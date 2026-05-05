@@ -1,10 +1,15 @@
 {
-  "updated_at": "2026-05-04T02:42:04.224863",
+  "updated_at": "2026-05-05T02:35:23.438112",
   "posts": [
+    {
+      "title": "Gala supercharges analytics performance with ClickHouse on AWS",
+      "url": "https://clickhouse.com/blog/gala",
+      "date": "May 04, 2026"
+    },
     {
       "title": "Goodbye limitations, hello data: How Qonto is rethinking observability with ClickHouse Cloud",
       "url": "https://clickhouse.com/blog/qonto",
-      "date": "May 01, 2026"
+      "date": "May 04, 2026"
     },
     {
       "title": "Comparing ClickHouse versions with clickhousectl",
@@ -45,11 +50,6 @@
       "title": "ClickHouse expands strategic collaboration with Google Cloud, bringing deeper integration, cloud flexibility, and next-generation performance",
       "url": "https://clickhouse.com/blog/clickhouse-expands-strategic-collaboration-with-google-cloud",
       "date": "Apr 22, 2026"
-    },
-    {
-      "title": "Index sharding in ClickHouse Cloud: Petabyte-scale data needs petabyte-scale indexing",
-      "url": "https://clickhouse.com/blog/index-sharding-clickhouse-cloud-petabyte-scale-indexing",
-      "date": "Apr 21, 2026"
     }
   ]
 }
