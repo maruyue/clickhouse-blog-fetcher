@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-05-05T02:35:23.438112",
+  "updated_at": "2026-05-06T02:39:42.648695",
   "posts": [
+    {
+      "title": "Stop guessing in production: Full fidelity tracing at scale with ClickHouse and Odigos",
+      "url": "https://clickhouse.com/blog/odigos-full-fidelity-tracing",
+      "date": "May 05, 2026"
+    },
     {
       "title": "Gala supercharges analytics performance with ClickHouse on AWS",
       "url": "https://clickhouse.com/blog/gala",
@@ -14,7 +19,7 @@
     {
       "title": "Comparing ClickHouse versions with clickhousectl",
       "url": "https://clickhouse.com/blog/clickhousectl-compare-versions",
-      "date": "Apr 29, 2026"
+      "date": "May 05, 2026"
     },
     {
       "title": "ClickHouse at Google Cloud Next '26",
@@ -44,11 +49,6 @@
     {
       "title": "ClickHouse Cloud on Google Cloud Now Powered by Google Axion Processors: 30–55% Faster Queries, ~15% Fewer Compute Credits",
       "url": "https://clickhouse.com/blog/google-axion",
-      "date": "Apr 22, 2026"
-    },
-    {
-      "title": "ClickHouse expands strategic collaboration with Google Cloud, bringing deeper integration, cloud flexibility, and next-generation performance",
-      "url": "https://clickhouse.com/blog/clickhouse-expands-strategic-collaboration-with-google-cloud",
       "date": "Apr 22, 2026"
     }
   ]
