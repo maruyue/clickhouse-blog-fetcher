@@ -1,10 +1,15 @@
 {
-  "updated_at": "2026-05-06T02:39:42.648695",
+  "updated_at": "2026-05-07T02:41:57.460160",
   "posts": [
+    {
+      "title": "Agentic analytics starts with query-ready data: the write-side cost of Snowflake vs. ClickHouse",
+      "url": "https://clickhouse.com/blog/write-side-cost-performance-snowflake-clickhouse",
+      "date": "May 06, 2026"
+    },
     {
       "title": "Stop guessing in production: Full fidelity tracing at scale with ClickHouse and Odigos",
       "url": "https://clickhouse.com/blog/odigos-full-fidelity-tracing",
-      "date": "May 05, 2026"
+      "date": "May 06, 2026"
     },
     {
       "title": "Gala supercharges analytics performance with ClickHouse on AWS",
@@ -44,11 +49,6 @@
     {
       "title": "ClickHouse integrates with Lakehouse Runtime Catalog",
       "url": "https://clickhouse.com/blog/google-lakehouse-runtime",
-      "date": "Apr 22, 2026"
-    },
-    {
-      "title": "ClickHouse Cloud on Google Cloud Now Powered by Google Axion Processors: 30–55% Faster Queries, ~15% Fewer Compute Credits",
-      "url": "https://clickhouse.com/blog/google-axion",
       "date": "Apr 22, 2026"
     }
   ]
