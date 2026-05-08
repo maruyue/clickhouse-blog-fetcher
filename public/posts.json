@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-05-07T02:41:57.460160",
+  "updated_at": "2026-05-08T02:46:37.393450",
   "posts": [
+    {
+      "title": "Introducing Postgres Query Insights in ClickHouse Cloud",
+      "url": "https://clickhouse.com/blog/postgres-query-insights-clickhouse-cloud",
+      "date": "May 07, 2026"
+    },
     {
       "title": "Agentic analytics starts with query-ready data: the write-side cost of Snowflake vs. ClickHouse",
       "url": "https://clickhouse.com/blog/write-side-cost-performance-snowflake-clickhouse",
@@ -45,11 +50,6 @@
       "title": "Using the ClickHouse MCP server with Google Antigravity",
       "url": "https://clickhouse.com/blog/google-antigravity",
       "date": "Apr 23, 2026"
-    },
-    {
-      "title": "ClickHouse integrates with Lakehouse Runtime Catalog",
-      "url": "https://clickhouse.com/blog/google-lakehouse-runtime",
-      "date": "Apr 22, 2026"
     }
   ]
 }
