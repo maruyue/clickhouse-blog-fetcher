@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-05-08T02:46:37.393450",
+  "updated_at": "2026-05-09T02:41:04.684511",
   "posts": [
+    {
+      "title": "ClickHouse Release 26.4",
+      "url": "https://clickhouse.com/blog/clickhouse-release-26-04",
+      "date": "May 08, 2026"
+    },
     {
       "title": "Introducing Postgres Query Insights in ClickHouse Cloud",
       "url": "https://clickhouse.com/blog/postgres-query-insights-clickhouse-cloud",
@@ -44,11 +49,6 @@
     {
       "title": "Do you still need Elasticsearch for log analytics? ClickHouse says no.",
       "url": "https://clickhouse.com/blog/elasticsearch-log-analytics-clickhouse",
-      "date": "Apr 23, 2026"
-    },
-    {
-      "title": "Using the ClickHouse MCP server with Google Antigravity",
-      "url": "https://clickhouse.com/blog/google-antigravity",
       "date": "Apr 23, 2026"
     }
   ]
