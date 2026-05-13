@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-05-12T02:47:48.775868",
+  "updated_at": "2026-05-13T02:53:12.146641",
   "posts": [
+    {
+      "title": "ClickHouse Cloud: Fast, Updatable Lookups with the Join Table Engine",
+      "url": "https://clickhouse.com/blog/join-table-engine",
+      "date": "May 12, 2026"
+    },
     {
       "title": "Powering self-driving vehicle analytics at Avride with ClickHouse Cloud",
       "url": "https://clickhouse.com/blog/avride",
@@ -9,7 +14,7 @@
     {
       "title": "ClickHouse Release 26.4",
       "url": "https://clickhouse.com/blog/clickhouse-release-26-04",
-      "date": "May 08, 2026"
+      "date": "May 12, 2026"
     },
     {
       "title": "Introducing Postgres Query Insights in ClickHouse Cloud",
@@ -45,11 +50,6 @@
       "title": "ClickHouse at Google Cloud Next '26",
       "url": "https://clickhouse.com/blog/google-next-2026-recap",
       "date": "Apr 27, 2026"
-    },
-    {
-      "title": "What's New in pg_clickhouse - JSONB Support, SQL value functions, Streaming, and more",
-      "url": "https://clickhouse.com/blog/pg_clickhouse-whats-new-april-2026",
-      "date": "Apr 24, 2026"
     }
   ]
 }
