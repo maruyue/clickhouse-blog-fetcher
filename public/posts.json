@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-05-13T02:53:12.146641",
+  "updated_at": "2026-05-14T02:55:26.924328",
   "posts": [
+    {
+      "title": "ClickStack SQL Charting and Alerting",
+      "url": "https://clickhouse.com/blog/clickstack-sql-charting-and-alerting",
+      "date": "May 13, 2026"
+    },
     {
       "title": "ClickHouse Cloud: Fast, Updatable Lookups with the Join Table Engine",
       "url": "https://clickhouse.com/blog/join-table-engine",
@@ -34,7 +39,7 @@
     {
       "title": "Gala supercharges analytics performance with ClickHouse on AWS",
       "url": "https://clickhouse.com/blog/gala",
-      "date": "May 04, 2026"
+      "date": "May 13, 2026"
     },
     {
       "title": "Goodbye limitations, hello data: How Qonto is rethinking observability with ClickHouse Cloud",
@@ -45,11 +50,6 @@
       "title": "Comparing ClickHouse versions with clickhousectl",
       "url": "https://clickhouse.com/blog/clickhousectl-compare-versions",
       "date": "May 05, 2026"
-    },
-    {
-      "title": "ClickHouse at Google Cloud Next '26",
-      "url": "https://clickhouse.com/blog/google-next-2026-recap",
-      "date": "Apr 27, 2026"
     }
   ]
 }
