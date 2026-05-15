@@ -1,6 +1,16 @@
 {
-  "updated_at": "2026-05-14T02:55:26.924328",
+  "updated_at": "2026-05-15T02:55:52.354467",
   "posts": [
+    {
+      "title": "Postgres FDW: Pushdown is a negotiation",
+      "url": "https://clickhouse.com/blog/postgres-fdw-pushdown-negotiation",
+      "date": "May 14, 2026"
+    },
+    {
+      "title": "ClickHouse vs Prometheus for High Cardinality, Part 1: Understanding the Problem",
+      "url": "https://clickhouse.com/blog/clickhouse-vs-promethous-high-cardinality-p1-understanding-the-problem",
+      "date": "May 14, 2026"
+    },
     {
       "title": "ClickStack SQL Charting and Alerting",
       "url": "https://clickhouse.com/blog/clickstack-sql-charting-and-alerting",
@@ -40,16 +50,6 @@
       "title": "Gala supercharges analytics performance with ClickHouse on AWS",
       "url": "https://clickhouse.com/blog/gala",
       "date": "May 13, 2026"
-    },
-    {
-      "title": "Goodbye limitations, hello data: How Qonto is rethinking observability with ClickHouse Cloud",
-      "url": "https://clickhouse.com/blog/qonto",
-      "date": "May 04, 2026"
-    },
-    {
-      "title": "Comparing ClickHouse versions with clickhousectl",
-      "url": "https://clickhouse.com/blog/clickhousectl-compare-versions",
-      "date": "May 05, 2026"
     }
   ]
 }
