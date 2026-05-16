@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-05-15T02:55:52.354467",
+  "updated_at": "2026-05-16T02:44:21.820259",
   "posts": [
+    {
+      "title": "How the D. E. Shaw group powers high-cardinality observability at scale with ClickHouse",
+      "url": "https://clickhouse.com/blog/deshaw",
+      "date": "May 15, 2026"
+    },
     {
       "title": "Postgres FDW: Pushdown is a negotiation",
       "url": "https://clickhouse.com/blog/postgres-fdw-pushdown-negotiation",
@@ -45,11 +50,6 @@
       "title": "Stop guessing in production: Full fidelity tracing at scale with ClickHouse and Odigos",
       "url": "https://clickhouse.com/blog/odigos-full-fidelity-tracing",
       "date": "May 06, 2026"
-    },
-    {
-      "title": "Gala supercharges analytics performance with ClickHouse on AWS",
-      "url": "https://clickhouse.com/blog/gala",
-      "date": "May 13, 2026"
     }
   ]
 }
