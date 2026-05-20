@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-05-19T03:23:56.292439",
+  "updated_at": "2026-05-20T03:24:16.951834",
   "posts": [
+    {
+      "title": "What's new in ClickStack - April 2026",
+      "url": "https://clickhouse.com/blog/whats-new-in-clickstack-april-2026",
+      "date": "May 19, 2026"
+    },
     {
       "title": "How ChatFeatured migrated from PlanetScale Postgres to Postgres Managed by ClickHouse to power AI brand discovery",
       "url": "https://clickhouse.com/blog/chatfeatured",
@@ -45,11 +50,6 @@
       "title": "ClickHouse Release 26.4",
       "url": "https://clickhouse.com/blog/clickhouse-release-26-04",
       "date": "May 12, 2026"
-    },
-    {
-      "title": "Introducing Postgres Query Insights in ClickHouse Cloud",
-      "url": "https://clickhouse.com/blog/postgres-query-insights-clickhouse-cloud",
-      "date": "May 07, 2026"
     }
   ]
 }
