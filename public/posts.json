@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-05-20T03:24:16.951834",
+  "updated_at": "2026-05-21T03:30:26.542569",
   "posts": [
+    {
+      "title": "clickhousectl v0.2.0: Postgres, ClickPipes and more",
+      "url": "https://clickhouse.com/blog/clickhousectl-v0-2-0-postgres-clickpipes-more",
+      "date": "May 20, 2026"
+    },
     {
       "title": "What's new in ClickStack - April 2026",
       "url": "https://clickhouse.com/blog/whats-new-in-clickstack-april-2026",
@@ -45,11 +50,6 @@
       "title": "Powering self-driving vehicle analytics at Avride with ClickHouse Cloud",
       "url": "https://clickhouse.com/blog/avride",
       "date": "May 11, 2026"
-    },
-    {
-      "title": "ClickHouse Release 26.4",
-      "url": "https://clickhouse.com/blog/clickhouse-release-26-04",
-      "date": "May 12, 2026"
     }
   ]
 }
