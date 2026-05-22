@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-05-21T03:30:26.542569",
+  "updated_at": "2026-05-22T03:29:43.075691",
   "posts": [
+    {
+      "title": "May 2026 newsletter",
+      "url": "https://clickhouse.com/blog/202605-newsletter",
+      "date": "May 21, 2026"
+    },
     {
       "title": "clickhousectl v0.2.0: Postgres, ClickPipes and more",
       "url": "https://clickhouse.com/blog/clickhousectl-v0-2-0-postgres-clickpipes-more",
@@ -45,11 +50,6 @@
       "title": "ClickHouse Cloud: Fast, Updatable Lookups with the Join Table Engine",
       "url": "https://clickhouse.com/blog/join-table-engine",
       "date": "May 12, 2026"
-    },
-    {
-      "title": "Powering self-driving vehicle analytics at Avride with ClickHouse Cloud",
-      "url": "https://clickhouse.com/blog/avride",
-      "date": "May 11, 2026"
     }
   ]
 }
