@@ -1,55 +1,55 @@
 {
-  "updated_at": "2026-05-27T03:36:32.603597",
+  "updated_at": "2026-05-28T02:55:52.889370",
   "posts": [
     {
-      "title": "Native random sampling in ClickHouse",
-      "url": "https://clickhouse.com/blog/native-random-sampling",
-      "date": "May 22, 2026"
+      "title": "Open House 2026 Day 1: real-time data without lock-in and what teams can build next",
+      "url": "https://clickhouse.com/blog/open-house-2026-day-1",
+      "date": "May 27, 2026"
     },
     {
-      "title": "Integrating the Rust Delta Kernel into ClickHouse",
-      "url": "https://clickhouse.com/blog/integrating-rust-delta-kernel",
-      "date": "May 22, 2026"
+      "title": "Open House observability announcements: MCP server, AI Notebooks, and ClickStack Cloud",
+      "url": "https://clickhouse.com/blog/observability-mcp-server-ai-notebooks",
+      "date": "May 27, 2026"
     },
     {
-      "title": "May 2026 newsletter",
-      "url": "https://clickhouse.com/blog/202605-newsletter",
-      "date": "May 21, 2026"
+      "title": "Introducing multi-stage distributed query execution in ClickHouse Cloud",
+      "url": "https://clickhouse.com/blog/multi-stage-distributed-query-execution-clickhouse-cloud",
+      "date": "May 27, 2026"
     },
     {
-      "title": "clickhousectl v0.2.0: Postgres, ClickPipes and more",
-      "url": "https://clickhouse.com/blog/clickhousectl-v0-2-0-postgres-clickpipes-more",
-      "date": "May 20, 2026"
+      "title": "Thank you for building with us",
+      "url": "https://clickhouse.com/blog/thank-you-for-building-with-us",
+      "date": "May 27, 2026"
     },
     {
-      "title": "What's new in ClickStack - April 2026",
-      "url": "https://clickhouse.com/blog/whats-new-in-clickstack-april-2026",
-      "date": "May 19, 2026"
+      "title": "ClickHouse tops $250M ARR and 4,000 customers, launches Claude-powered agents at Open House 2026",
+      "url": "https://clickhouse.com/blog/clickhouse-tops-250m-arr-and-4000-customers",
+      "date": "May 27, 2026"
     },
     {
-      "title": "How ChatFeatured migrated from PlanetScale Postgres to Postgres Managed by ClickHouse to power AI brand discovery",
-      "url": "https://clickhouse.com/blog/chatfeatured",
-      "date": "May 18, 2026"
+      "title": "Introducing ClickStack Cloud: Serverless observability powered by ClickHouse",
+      "url": "https://clickhouse.com/blog/clickstack-cloud-private-preview",
+      "date": "May 27, 2026"
     },
     {
-      "title": "ClickHouse vs Prometheus for High Cardinality, Part 2: Cardinality in ClickHouse",
-      "url": "https://clickhouse.com/blog/clickhouse-vs-promethous-high-cardinality-part-2-cardinality-in-clickhouse",
-      "date": "May 18, 2026"
+      "title": "Introducing House Mates: the ClickHouse partner community and program",
+      "url": "https://clickhouse.com/blog/introducing-house-mates",
+      "date": "May 27, 2026"
     },
     {
-      "title": "How the D. E. Shaw group powers high-cardinality observability at scale with ClickHouse",
-      "url": "https://clickhouse.com/blog/deshaw",
-      "date": "May 15, 2026"
+      "title": "Postgres managed by ClickHouse is now in beta",
+      "url": "https://clickhouse.com/blog/postgres-managed-by-clickhouse-beta",
+      "date": "May 27, 2026"
     },
     {
-      "title": "Postgres FDW: Pushdown is a negotiation",
-      "url": "https://clickhouse.com/blog/postgres-fdw-pushdown-negotiation",
-      "date": "May 14, 2026"
+      "title": "Introducing CostBench: an open benchmark for data warehouse cost-performance",
+      "url": "https://clickhouse.com/blog/costbench-data-warehouse-cost-performance",
+      "date": "May 27, 2026"
     },
     {
-      "title": "ClickHouse vs Prometheus for High Cardinality, Part 1: Understanding the Problem",
-      "url": "https://clickhouse.com/blog/clickhouse-vs-promethous-high-cardinality-p1-understanding-the-problem",
-      "date": "May 14, 2026"
+      "title": "5 Countries, 12 Days, One ClickHouse: Inside Alexey's APJ AI Tour",
+      "url": "https://clickhouse.com/blog/alexey-apj-ai-tour",
+      "date": "May 27, 2026"
     }
   ]
 }
