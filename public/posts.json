@@ -1,19 +1,24 @@
 {
-  "updated_at": "2026-05-28T02:55:52.889370",
+  "updated_at": "2026-05-29T03:25:03.142867",
   "posts": [
     {
-      "title": "Open House 2026 Day 1: real-time data without lock-in and what teams can build next",
-      "url": "https://clickhouse.com/blog/open-house-2026-day-1",
-      "date": "May 27, 2026"
+      "title": "Open House 2026 Day 2: 10 years of open source and what the ecosystem is building next",
+      "url": "https://clickhouse.com/blog/open-house-2026-day-2",
+      "date": "May 28, 2026"
     },
     {
-      "title": "Open House observability announcements: MCP server, AI Notebooks, and ClickStack Cloud",
-      "url": "https://clickhouse.com/blog/observability-mcp-server-ai-notebooks",
-      "date": "May 27, 2026"
+      "title": "Open House 2026 Day 1: Real-time data without lock-in and what teams can build next",
+      "url": "https://clickhouse.com/blog/open-house-2026-day-1",
+      "date": "May 29, 2026"
     },
     {
       "title": "Introducing multi-stage distributed query execution in ClickHouse Cloud",
       "url": "https://clickhouse.com/blog/multi-stage-distributed-query-execution-clickhouse-cloud",
+      "date": "May 28, 2026"
+    },
+    {
+      "title": "Open House observability announcements: MCP server, AI Notebooks, and ClickStack Cloud",
+      "url": "https://clickhouse.com/blog/observability-mcp-server-ai-notebooks",
       "date": "May 27, 2026"
     },
     {
@@ -44,11 +49,6 @@
     {
       "title": "Introducing CostBench: an open benchmark for data warehouse cost-performance",
       "url": "https://clickhouse.com/blog/costbench-data-warehouse-cost-performance",
-      "date": "May 27, 2026"
-    },
-    {
-      "title": "5 Countries, 12 Days, One ClickHouse: Inside Alexey's APJ AI Tour",
-      "url": "https://clickhouse.com/blog/alexey-apj-ai-tour",
       "date": "May 27, 2026"
     }
   ]
