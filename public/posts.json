@@ -1,10 +1,15 @@
 {
-  "updated_at": "2026-05-31T03:37:37.768062",
+  "updated_at": "2026-06-01T03:52:30.217102",
   "posts": [
     {
       "title": "Open House 2026 Day 2: 10 years of open source and what the ecosystem is building next",
       "url": "https://clickhouse.com/blog/open-house-2026-day-2",
       "date": "May 28, 2026"
+    },
+    {
+      "title": "Postgres managed by ClickHouse is now in beta",
+      "url": "https://clickhouse.com/blog/postgres-managed-by-clickhouse-beta",
+      "date": "Jun 01, 2026"
     },
     {
       "title": "Open House 2026 Day 1: Real-time data without lock-in and what teams can build next",
@@ -39,11 +44,6 @@
     {
       "title": "Introducing House Mates: the ClickHouse partner community and program",
       "url": "https://clickhouse.com/blog/introducing-house-mates",
-      "date": "May 27, 2026"
-    },
-    {
-      "title": "Postgres managed by ClickHouse is now in beta",
-      "url": "https://clickhouse.com/blog/postgres-managed-by-clickhouse-beta",
       "date": "May 27, 2026"
     },
     {
