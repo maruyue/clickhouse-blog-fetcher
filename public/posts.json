@@ -1,10 +1,25 @@
 {
-  "updated_at": "2026-06-01T03:52:30.217102",
+  "updated_at": "2026-06-02T03:44:23.793071",
   "posts": [
+    {
+      "title": "ClickHouse Release 26.5",
+      "url": "https://clickhouse.com/blog/clickhouse-release-26-05",
+      "date": "Jun 01, 2026"
+    },
+    {
+      "title": "Executable UDFs are now in public beta on ClickHouse Cloud",
+      "url": "https://clickhouse.com/blog/executable-udfs-clickhouse-cloud-beta",
+      "date": "Jun 01, 2026"
+    },
     {
       "title": "Open House 2026 Day 2: 10 years of open source and what the ecosystem is building next",
       "url": "https://clickhouse.com/blog/open-house-2026-day-2",
-      "date": "May 28, 2026"
+      "date": "Jun 01, 2026"
+    },
+    {
+      "title": "5 countries, 12 days, one ClickHouse: inside Alexey's APJ AI Tour",
+      "url": "https://clickhouse.com/blog/alexey-apj-ai-tour",
+      "date": "Jun 01, 2026"
     },
     {
       "title": "Postgres managed by ClickHouse is now in beta",
@@ -34,21 +49,6 @@
     {
       "title": "ClickHouse tops $250M ARR and 4,000 customers, launches Claude-powered agents at Open House 2026",
       "url": "https://clickhouse.com/blog/clickhouse-tops-250m-arr-and-4000-customers",
-      "date": "May 27, 2026"
-    },
-    {
-      "title": "Introducing ClickStack Cloud: Serverless observability powered by ClickHouse",
-      "url": "https://clickhouse.com/blog/clickstack-cloud-private-preview",
-      "date": "May 27, 2026"
-    },
-    {
-      "title": "Introducing House Mates: the ClickHouse partner community and program",
-      "url": "https://clickhouse.com/blog/introducing-house-mates",
-      "date": "May 27, 2026"
-    },
-    {
-      "title": "Introducing CostBench: an open benchmark for data warehouse cost-performance",
-      "url": "https://clickhouse.com/blog/costbench-data-warehouse-cost-performance",
       "date": "May 27, 2026"
     }
   ]
