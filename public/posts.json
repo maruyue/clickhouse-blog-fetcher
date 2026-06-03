@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-06-02T03:44:23.793071",
+  "updated_at": "2026-06-03T03:54:26.290151",
   "posts": [
+    {
+      "title": "TPC-H for less than a cent: ClickHouse Cloud vs. Snowflake, Databricks, BigQuery, and Redshift",
+      "url": "https://clickhouse.com/blog/tpc-h-clickhouse-cloud-vs-snowflake-databricks-bigquery-redshift",
+      "date": "Jun 02, 2026"
+    },
     {
       "title": "ClickHouse Release 26.5",
       "url": "https://clickhouse.com/blog/clickhouse-release-26-05",
@@ -15,6 +20,11 @@
       "title": "Open House 2026 Day 2: 10 years of open source and what the ecosystem is building next",
       "url": "https://clickhouse.com/blog/open-house-2026-day-2",
       "date": "Jun 01, 2026"
+    },
+    {
+      "title": "Introducing CostBench: an open benchmark for data warehouse cost-performance",
+      "url": "https://clickhouse.com/blog/costbench-data-warehouse-cost-performance",
+      "date": "Jun 02, 2026"
     },
     {
       "title": "5 countries, 12 days, one ClickHouse: inside Alexey's APJ AI Tour",
@@ -39,16 +49,6 @@
     {
       "title": "Open House observability announcements: MCP server, AI Notebooks, and ClickStack Cloud",
       "url": "https://clickhouse.com/blog/observability-mcp-server-ai-notebooks",
-      "date": "May 27, 2026"
-    },
-    {
-      "title": "Thank you for building with us",
-      "url": "https://clickhouse.com/blog/thank-you-for-building-with-us",
-      "date": "May 27, 2026"
-    },
-    {
-      "title": "ClickHouse tops $250M ARR and 4,000 customers, launches Claude-powered agents at Open House 2026",
-      "url": "https://clickhouse.com/blog/clickhouse-tops-250m-arr-and-4000-customers",
       "date": "May 27, 2026"
     }
   ]
