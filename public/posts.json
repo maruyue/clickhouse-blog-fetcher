@@ -1,10 +1,25 @@
 {
-  "updated_at": "2026-06-03T03:54:26.290151",
+  "updated_at": "2026-06-04T03:49:20.227427",
   "posts": [
+    {
+      "title": "Logging, Metrics, and Distributed Tracing in .NET with OpenTelemetry and ClickStack",
+      "url": "https://clickhouse.com/blog/logging-metrics-distributed-tracing-dotnet-otel-clickstack",
+      "date": "Jun 03, 2026"
+    },
+    {
+      "title": "How ClickHouse became fast at joins",
+      "url": "https://clickhouse.com/blog/clickhouse-fast-joins",
+      "date": "Jun 03, 2026"
+    },
+    {
+      "title": "Building a .NET API Gateway with ClickHouse and Aspire",
+      "url": "https://clickhouse.com/blog/dotnet-api-gateway-aspire",
+      "date": "Jun 03, 2026"
+    },
     {
       "title": "TPC-H for less than a cent: ClickHouse Cloud vs. Snowflake, Databricks, BigQuery, and Redshift",
       "url": "https://clickhouse.com/blog/tpc-h-clickhouse-cloud-vs-snowflake-databricks-bigquery-redshift",
-      "date": "Jun 02, 2026"
+      "date": "Jun 03, 2026"
     },
     {
       "title": "ClickHouse Release 26.5",
@@ -22,34 +37,19 @@
       "date": "Jun 01, 2026"
     },
     {
+      "title": "Open House 2026 Day 1: Real-time data without lock-in and what teams can build next",
+      "url": "https://clickhouse.com/blog/open-house-2026-day-1",
+      "date": "Jun 03, 2026"
+    },
+    {
+      "title": "Introducing ClickStack Cloud: Serverless observability powered by ClickHouse",
+      "url": "https://clickhouse.com/blog/clickstack-cloud-private-preview",
+      "date": "Jun 03, 2026"
+    },
+    {
       "title": "Introducing CostBench: an open benchmark for data warehouse cost-performance",
       "url": "https://clickhouse.com/blog/costbench-data-warehouse-cost-performance",
       "date": "Jun 02, 2026"
-    },
-    {
-      "title": "5 countries, 12 days, one ClickHouse: inside Alexey's APJ AI Tour",
-      "url": "https://clickhouse.com/blog/alexey-apj-ai-tour",
-      "date": "Jun 01, 2026"
-    },
-    {
-      "title": "Postgres managed by ClickHouse is now in beta",
-      "url": "https://clickhouse.com/blog/postgres-managed-by-clickhouse-beta",
-      "date": "Jun 01, 2026"
-    },
-    {
-      "title": "Open House 2026 Day 1: Real-time data without lock-in and what teams can build next",
-      "url": "https://clickhouse.com/blog/open-house-2026-day-1",
-      "date": "May 29, 2026"
-    },
-    {
-      "title": "Introducing multi-stage distributed query execution in ClickHouse Cloud",
-      "url": "https://clickhouse.com/blog/multi-stage-distributed-query-execution-clickhouse-cloud",
-      "date": "May 28, 2026"
-    },
-    {
-      "title": "Open House observability announcements: MCP server, AI Notebooks, and ClickStack Cloud",
-      "url": "https://clickhouse.com/blog/observability-mcp-server-ai-notebooks",
-      "date": "May 27, 2026"
     }
   ]
 }
