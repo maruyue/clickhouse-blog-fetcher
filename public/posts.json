@@ -1,14 +1,24 @@
 {
-  "updated_at": "2026-06-04T03:49:20.227427",
+  "updated_at": "2026-06-05T03:34:48.989072",
   "posts": [
     {
-      "title": "Logging, Metrics, and Distributed Tracing in .NET with OpenTelemetry and ClickStack",
-      "url": "https://clickhouse.com/blog/logging-metrics-distributed-tracing-dotnet-otel-clickstack",
-      "date": "Jun 03, 2026"
+      "title": "What to look for when selecting a real-time analytical database",
+      "url": "https://clickhouse.com/blog/selecting-a-real-time-analytical-database",
+      "date": "Jun 04, 2026"
+    },
+    {
+      "title": "Click-a-thon 2026: 24 hours, Bengaluru, and the fastest analytical database on the planet",
+      "url": "https://clickhouse.com/blog/click-a-thon-2026",
+      "date": "Jun 04, 2026"
     },
     {
       "title": "How ClickHouse became fast at joins",
       "url": "https://clickhouse.com/blog/clickhouse-fast-joins",
+      "date": "Jun 04, 2026"
+    },
+    {
+      "title": "Logging, Metrics, and Distributed Tracing in .NET with OpenTelemetry and ClickStack",
+      "url": "https://clickhouse.com/blog/logging-metrics-distributed-tracing-dotnet-otel-clickstack",
       "date": "Jun 03, 2026"
     },
     {
@@ -40,16 +50,6 @@
       "title": "Open House 2026 Day 1: Real-time data without lock-in and what teams can build next",
       "url": "https://clickhouse.com/blog/open-house-2026-day-1",
       "date": "Jun 03, 2026"
-    },
-    {
-      "title": "Introducing ClickStack Cloud: Serverless observability powered by ClickHouse",
-      "url": "https://clickhouse.com/blog/clickstack-cloud-private-preview",
-      "date": "Jun 03, 2026"
-    },
-    {
-      "title": "Introducing CostBench: an open benchmark for data warehouse cost-performance",
-      "url": "https://clickhouse.com/blog/costbench-data-warehouse-cost-performance",
-      "date": "Jun 02, 2026"
     }
   ]
 }
