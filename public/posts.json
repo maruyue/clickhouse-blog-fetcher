@@ -1,14 +1,19 @@
 {
-  "updated_at": "2026-06-05T03:34:48.989072",
+  "updated_at": "2026-06-06T02:55:35.047550",
   "posts": [
     {
-      "title": "What to look for when selecting a real-time analytical database",
-      "url": "https://clickhouse.com/blog/selecting-a-real-time-analytical-database",
-      "date": "Jun 04, 2026"
+      "title": "Monitor SLAs and scale ClickHouse Cloud with clickhousectl and agents",
+      "url": "https://clickhouse.com/blog/monitor-and-scale-clickhouse-cloud-with-clickhousectl",
+      "date": "Jun 05, 2026"
     },
     {
       "title": "Click-a-thon 2026: 24 hours, Bengaluru, and the fastest analytical database on the planet",
       "url": "https://clickhouse.com/blog/click-a-thon-2026",
+      "date": "Jun 05, 2026"
+    },
+    {
+      "title": "What to look for when selecting a real-time analytical database",
+      "url": "https://clickhouse.com/blog/selecting-a-real-time-analytical-database",
       "date": "Jun 04, 2026"
     },
     {
@@ -45,11 +50,6 @@
       "title": "Open House 2026 Day 2: 10 years of open source and what the ecosystem is building next",
       "url": "https://clickhouse.com/blog/open-house-2026-day-2",
       "date": "Jun 01, 2026"
-    },
-    {
-      "title": "Open House 2026 Day 1: Real-time data without lock-in and what teams can build next",
-      "url": "https://clickhouse.com/blog/open-house-2026-day-1",
-      "date": "Jun 03, 2026"
     }
   ]
 }
