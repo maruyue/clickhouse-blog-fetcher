@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-06-08T03:49:52.969946",
+  "updated_at": "2026-06-09T02:54:42.766957",
   "posts": [
+    {
+      "title": "ClickHouse appoints new leader for Asia Pacific and expands global go-to-market leadership team",
+      "url": "https://clickhouse.com/blog/clickhouse-appoints-apac-leader-and-expands-global-gtm-leadership",
+      "date": "Jun 09, 2026"
+    },
     {
       "title": "Monitor SLAs and scale ClickHouse Cloud with clickhousectl and agents",
       "url": "https://clickhouse.com/blog/monitor-and-scale-clickhouse-cloud-with-clickhousectl",
@@ -44,11 +49,6 @@
     {
       "title": "Executable UDFs are now in public beta on ClickHouse Cloud",
       "url": "https://clickhouse.com/blog/executable-udfs-clickhouse-cloud-beta",
-      "date": "Jun 01, 2026"
-    },
-    {
-      "title": "Open House 2026 Day 2: 10 years of open source and what the ecosystem is building next",
-      "url": "https://clickhouse.com/blog/open-house-2026-day-2",
       "date": "Jun 01, 2026"
     }
   ]
