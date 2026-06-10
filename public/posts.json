@@ -1,6 +1,16 @@
 {
-  "updated_at": "2026-06-09T02:54:42.766957",
+  "updated_at": "2026-06-10T03:32:25.327365",
   "posts": [
+    {
+      "title": "ClickHouse Agents: Claude-powered agentic analytics, now in public beta",
+      "url": "https://clickhouse.com/blog/clickhouse-agents-beta",
+      "date": "Jun 09, 2026"
+    },
+    {
+      "title": "How QRT powers real-time research and risk management at petabyte scale",
+      "url": "https://clickhouse.com/blog/qrt",
+      "date": "Jun 09, 2026"
+    },
     {
       "title": "ClickHouse appoints new leader for Asia Pacific and expands global go-to-market leadership team",
       "url": "https://clickhouse.com/blog/clickhouse-appoints-apac-leader-and-expands-global-gtm-leadership",
@@ -40,16 +50,6 @@
       "title": "TPC-H for less than a cent: ClickHouse Cloud vs. Snowflake, Databricks, BigQuery, and Redshift",
       "url": "https://clickhouse.com/blog/tpc-h-clickhouse-cloud-vs-snowflake-databricks-bigquery-redshift",
       "date": "Jun 03, 2026"
-    },
-    {
-      "title": "ClickHouse Release 26.5",
-      "url": "https://clickhouse.com/blog/clickhouse-release-26-05",
-      "date": "Jun 01, 2026"
-    },
-    {
-      "title": "Executable UDFs are now in public beta on ClickHouse Cloud",
-      "url": "https://clickhouse.com/blog/executable-udfs-clickhouse-cloud-beta",
-      "date": "Jun 01, 2026"
     }
   ]
 }
