@@ -1,6 +1,16 @@
 {
-  "updated_at": "2026-06-10T03:32:25.327365",
+  "updated_at": "2026-06-11T03:44:17.160095",
   "posts": [
+    {
+      "title": "Datadog and ClickHouse partner to bring full-fidelity data to modern observability",
+      "url": "https://clickhouse.com/blog/datadog-and-clickhouse-partnership",
+      "date": "Jun 10, 2026"
+    },
+    {
+      "title": "Agents can now provision ClickHouse and Postgres on ClickHouse Cloud",
+      "url": "https://clickhouse.com/blog/stripe-projects",
+      "date": "Jun 10, 2026"
+    },
     {
       "title": "ClickHouse Agents: Claude-powered agentic analytics, now in public beta",
       "url": "https://clickhouse.com/blog/clickhouse-agents-beta",
@@ -39,16 +49,6 @@
     {
       "title": "Logging, Metrics, and Distributed Tracing in .NET with OpenTelemetry and ClickStack",
       "url": "https://clickhouse.com/blog/logging-metrics-distributed-tracing-dotnet-otel-clickstack",
-      "date": "Jun 03, 2026"
-    },
-    {
-      "title": "Building a .NET API Gateway with ClickHouse and Aspire",
-      "url": "https://clickhouse.com/blog/dotnet-api-gateway-aspire",
-      "date": "Jun 03, 2026"
-    },
-    {
-      "title": "TPC-H for less than a cent: ClickHouse Cloud vs. Snowflake, Databricks, BigQuery, and Redshift",
-      "url": "https://clickhouse.com/blog/tpc-h-clickhouse-cloud-vs-snowflake-databricks-bigquery-redshift",
       "date": "Jun 03, 2026"
     }
   ]
