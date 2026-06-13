@@ -1,14 +1,19 @@
 {
-  "updated_at": "2026-06-12T03:43:37.437077",
+  "updated_at": "2026-06-13T03:31:51.420651",
   "posts": [
     {
-      "title": "Introducing Postgres to Postgres ClickPipes in ClickHouse Cloud",
-      "url": "https://clickhouse.com/blog/clickpipes-postgres-to-postgres",
-      "date": "Jun 11, 2026"
+      "title": "ClickHouse achieves AWS Retail Competency",
+      "url": "https://clickhouse.com/blog/achieves-aws-retail-competency",
+      "date": "Jun 12, 2026"
     },
     {
       "title": "Building ClickCannon - a tool for benchmarking ClickHouse",
       "url": "https://clickhouse.com/blog/building-clickcannon-a-tool-for-benchmark-clickhouse",
+      "date": "Jun 12, 2026"
+    },
+    {
+      "title": "Introducing Postgres to Postgres ClickPipes in ClickHouse Cloud",
+      "url": "https://clickhouse.com/blog/clickpipes-postgres-to-postgres",
       "date": "Jun 11, 2026"
     },
     {
@@ -45,11 +50,6 @@
       "title": "Click-a-thon 2026: 24 hours, Bengaluru, and the fastest analytical database on the planet",
       "url": "https://clickhouse.com/blog/click-a-thon-2026",
       "date": "Jun 05, 2026"
-    },
-    {
-      "title": "What to look for when selecting a real-time analytical database",
-      "url": "https://clickhouse.com/blog/selecting-a-real-time-analytical-database",
-      "date": "Jun 04, 2026"
     }
   ]
 }
