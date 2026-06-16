@@ -1,6 +1,16 @@
 {
-  "updated_at": "2026-06-15T04:04:30.920207",
+  "updated_at": "2026-06-16T03:54:30.232025",
   "posts": [
+    {
+      "title": "Cisco Talos empowers threat researchers while reducing TCO by 75% with ClickHouse Cloud",
+      "url": "https://clickhouse.com/blog/cisco",
+      "date": "Jun 15, 2026"
+    },
+    {
+      "title": "Ten years of ClickHouse in open source",
+      "url": "https://clickhouse.com/blog/open-source-10",
+      "date": "Jun 15, 2026"
+    },
     {
       "title": "ClickHouse achieves AWS Retail Competency",
       "url": "https://clickhouse.com/blog/achieves-aws-retail-competency",
@@ -40,16 +50,6 @@
       "title": "ClickHouse appoints new leader for Asia Pacific and expands global go-to-market leadership team",
       "url": "https://clickhouse.com/blog/clickhouse-appoints-apac-leader-and-expands-global-gtm-leadership",
       "date": "Jun 09, 2026"
-    },
-    {
-      "title": "Monitor SLAs and scale ClickHouse Cloud with clickhousectl and agents",
-      "url": "https://clickhouse.com/blog/monitor-and-scale-clickhouse-cloud-with-clickhousectl",
-      "date": "Jun 05, 2026"
-    },
-    {
-      "title": "Click-a-thon 2026: 24 hours, Bengaluru, and the fastest analytical database on the planet",
-      "url": "https://clickhouse.com/blog/click-a-thon-2026",
-      "date": "Jun 05, 2026"
     }
   ]
 }
