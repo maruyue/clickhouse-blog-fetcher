@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-06-16T03:54:30.232025",
+  "updated_at": "2026-06-17T03:56:02.169965",
   "posts": [
+    {
+      "title": "What a difference 10 years of open source makes",
+      "url": "https://clickhouse.com/blog/what-a-difference-10-years-of-open-source-makes",
+      "date": "Jun 16, 2026"
+    },
     {
       "title": "Cisco Talos empowers threat researchers while reducing TCO by 75% with ClickHouse Cloud",
       "url": "https://clickhouse.com/blog/cisco",
@@ -44,11 +49,6 @@
     {
       "title": "How QRT powers real-time research and risk management at petabyte scale",
       "url": "https://clickhouse.com/blog/qrt",
-      "date": "Jun 09, 2026"
-    },
-    {
-      "title": "ClickHouse appoints new leader for Asia Pacific and expands global go-to-market leadership team",
-      "url": "https://clickhouse.com/blog/clickhouse-appoints-apac-leader-and-expands-global-gtm-leadership",
       "date": "Jun 09, 2026"
     }
   ]
