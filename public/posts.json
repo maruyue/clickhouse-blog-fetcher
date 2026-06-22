@@ -1,11 +1,6 @@
 {
-  "updated_at": "2026-06-21T03:59:50.506458",
+  "updated_at": "2026-06-22T04:01:16.426369",
   "posts": [
-    {
-      "title": "Why everyone is talking about real-time analytics (a note from “the yellow company”)",
-      "url": "https://clickhouse.com/blog/why-everyone-is-talking-about-real-analytics-yellow-company",
-      "date": "Jun 18, 2026"
-    },
     {
       "title": "Ten years of open source: a stained-glass view",
       "url": "https://clickhouse.com/blog/ten-years-of-open-source-a-stained-glass-view",
@@ -14,6 +9,11 @@
     {
       "title": "Beyond the warehouse: How METRO Markets built a do-it-all data platform on ClickHouse Cloud",
       "url": "https://clickhouse.com/blog/metro-markets-data-warehouse",
+      "date": "Jun 18, 2026"
+    },
+    {
+      "title": "Why everyone is talking about real-time analytics (a note from “the yellow company”)",
+      "url": "https://clickhouse.com/blog/why-everyone-is-talking-about-real-analytics-yellow-company",
       "date": "Jun 18, 2026"
     },
     {
