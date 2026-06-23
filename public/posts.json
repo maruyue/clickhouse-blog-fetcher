@@ -1,6 +1,16 @@
 {
-  "updated_at": "2026-06-22T04:01:16.426369",
+  "updated_at": "2026-06-23T02:58:42.005209",
   "posts": [
+    {
+      "title": "The future of observability won’t be one proprietary AI agent. It will be thousands built by teams.",
+      "url": "https://clickhouse.com/blog/the-future-of-observability-not-one-proprietary-ai-agent-thousands-by-teams",
+      "date": "Jun 22, 2026"
+    },
+    {
+      "title": "How Spyne simplified their CDC pipeline with ClickPipes and ClickHouse Cloud",
+      "url": "https://clickhouse.com/blog/spyne-clickpipes-cdc-pipeline",
+      "date": "Jun 22, 2026"
+    },
     {
       "title": "Ten years of open source: a stained-glass view",
       "url": "https://clickhouse.com/blog/ten-years-of-open-source-a-stained-glass-view",
@@ -39,16 +49,6 @@
     {
       "title": "The open ecosystem around ClickHouse",
       "url": "https://clickhouse.com/blog/the-open-ecosystem-around-clickhouse",
-      "date": "Jun 17, 2026"
-    },
-    {
-      "title": "92x faster queries: How Open Electricity uses ClickHouse to track Australia’s energy transition in real time",
-      "url": "https://clickhouse.com/blog/openelectricity-australia-energy-transition",
-      "date": "Jun 17, 2026"
-    },
-    {
-      "title": "What a difference 10 years of open source makes",
-      "url": "https://clickhouse.com/blog/what-a-difference-10-years-of-open-source-makes",
       "date": "Jun 17, 2026"
     }
   ]
