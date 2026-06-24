@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-06-23T02:58:42.005209",
+  "updated_at": "2026-06-24T03:24:11.199256",
   "posts": [
+    {
+      "title": "The end-to-end cost-performance of real-time analytics: Snowflake vs. ClickHouse Cloud",
+      "url": "https://clickhouse.com/blog/real-time-analytics-cost-performance-snowflake-vs-clickhouse",
+      "date": "Jun 23, 2026"
+    },
+    {
+      "title": "What's new in ClickStack - May 2026",
+      "url": "https://clickhouse.com/blog/whats-new-in-clickstack-may-2026",
+      "date": "Jun 23, 2026"
+    },
+    {
+      "title": "What's New in pg_clickhouse v0.3.2: Postgres 19, TLS, Regex, and Memory",
+      "url": "https://clickhouse.com/blog/pg_clickhouse-whats-new-june-2026",
+      "date": "Jun 23, 2026"
+    },
     {
       "title": "The future of observability won’t be one proprietary AI agent. It will be thousands built by teams.",
       "url": "https://clickhouse.com/blog/the-future-of-observability-not-one-proprietary-ai-agent-thousands-by-teams",
@@ -35,21 +50,6 @@
       "title": "What's new in Postgres Managed by ClickHouse: RBAC, Terraform, ClickPipes, extensions, and more",
       "url": "https://clickhouse.com/blog/postgres-managed-by-clickhouse-rbac-terraform-clickpipes-extensions",
       "date": "Jun 18, 2026"
-    },
-    {
-      "title": "June 2026 newsletter",
-      "url": "https://clickhouse.com/blog/202606-newsletter",
-      "date": "Jun 18, 2026"
-    },
-    {
-      "title": "GCP Pub/Sub connector for ClickPipes is now in Private Preview",
-      "url": "https://clickhouse.com/blog/clickpipes-gcp-pub-sub-preview",
-      "date": "Jun 17, 2026"
-    },
-    {
-      "title": "The open ecosystem around ClickHouse",
-      "url": "https://clickhouse.com/blog/the-open-ecosystem-around-clickhouse",
-      "date": "Jun 17, 2026"
     }
   ]
 }
