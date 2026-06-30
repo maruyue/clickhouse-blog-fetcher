@@ -1,6 +1,16 @@
 {
-  "updated_at": "2026-06-29T03:40:57.509845",
+  "updated_at": "2026-06-30T03:28:50.947251",
   "posts": [
+    {
+      "title": "Benchmarks and Obscurantism: A “red” line that should not be crossed",
+      "url": "https://clickhouse.com/blog/databricks-reyden-benchmark-transparency-clickhouse",
+      "date": "Jun 29, 2026"
+    },
+    {
+      "title": "Agents hate friction: early thoughts on building for agents",
+      "url": "https://clickhouse.com/blog/agents-hate-friction",
+      "date": "Jun 29, 2026"
+    },
     {
       "title": "How I hunt for vulnerabilities with AI",
       "url": "https://clickhouse.com/blog/how-i-hunt-for-vulnerabilities-with-ai",
@@ -39,16 +49,6 @@
     {
       "title": "How Visa went from multi-day reporting to conversational analytics agents with ClickHouse Cloud and LibreChat",
       "url": "https://clickhouse.com/blog/visa-conversational-agents",
-      "date": "Jun 24, 2026"
-    },
-    {
-      "title": "The end-to-end cost-performance of real-time analytics: Snowflake vs. ClickHouse Cloud",
-      "url": "https://clickhouse.com/blog/real-time-analytics-cost-performance-snowflake-vs-clickhouse",
-      "date": "Jun 26, 2026"
-    },
-    {
-      "title": "What's new in ClickStack - May 2026",
-      "url": "https://clickhouse.com/blog/whats-new-in-clickstack-may-2026",
       "date": "Jun 24, 2026"
     }
   ]
