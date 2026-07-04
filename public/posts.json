@@ -1,10 +1,15 @@
 {
-  "updated_at": "2026-07-03T02:45:42.948951",
+  "updated_at": "2026-07-04T02:41:47.298544",
   "posts": [
+    {
+      "title": "ClickHouse Release 26.6",
+      "url": "https://clickhouse.com/blog/clickhouse-release-26-06",
+      "date": "Jul 03, 2026"
+    },
     {
       "title": "ClickHouse Agents is now available for Managed Postgres",
       "url": "https://clickhouse.com/blog/clickhouse-agents-managed-postgres",
-      "date": "Jul 02, 2026"
+      "date": "Jul 03, 2026"
     },
     {
       "title": "How we made ClickStack 5x faster for ClickHouse observability",
@@ -45,11 +50,6 @@
       "title": "Agents hate friction: early thoughts on building for agents",
       "url": "https://clickhouse.com/blog/agents-hate-friction",
       "date": "Jun 29, 2026"
-    },
-    {
-      "title": "How I hunt for vulnerabilities with AI",
-      "url": "https://clickhouse.com/blog/how-i-hunt-for-vulnerabilities-with-ai",
-      "date": "Jun 26, 2026"
     }
   ]
 }
