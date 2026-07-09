@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-07-08T02:29:33.680872",
+  "updated_at": "2026-07-09T02:46:32.796517",
   "posts": [
+    {
+      "title": "Introducing pg_re2, fast, RE2-powered regular expressions in Postgres",
+      "url": "https://clickhouse.com/blog/introducing-pg_re2-regex-in-postgres",
+      "date": "Jul 08, 2026"
+    },
     {
       "title": "AI needs the best-of-breed data stack: Postgres and ClickHouse",
       "url": "https://clickhouse.com/blog/ai-best-of-breed-data-stack",
@@ -44,11 +49,6 @@
     {
       "title": "How Artemis Security runs 69x faster detection queries with ClickHouse Cloud",
       "url": "https://clickhouse.com/blog/artemis-security-real-time-threat-detection",
-      "date": "Jul 01, 2026"
-    },
-    {
-      "title": "Clever ingests 200x more logs at the same cost with ClickHouse Cloud",
-      "url": "https://clickhouse.com/blog/clever-observability-at-scale",
       "date": "Jul 01, 2026"
     }
   ]
