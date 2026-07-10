@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-07-09T02:46:32.796517",
+  "updated_at": "2026-07-10T02:49:27.355691",
   "posts": [
+    {
+      "title": "How Trigger.dev is using ClickHouse to scale observability for long-running AI workflows",
+      "url": "https://clickhouse.com/blog/trigger-dev-scaling-observability",
+      "date": "Jul 09, 2026"
+    },
     {
       "title": "Introducing pg_re2, fast, RE2-powered regular expressions in Postgres",
       "url": "https://clickhouse.com/blog/introducing-pg_re2-regex-in-postgres",
@@ -44,11 +49,6 @@
     {
       "title": "How we scale PgBouncer in ClickHouse Managed Postgres",
       "url": "https://clickhouse.com/blog/pgbouncer-clickhouse-managed-postgres",
-      "date": "Jul 01, 2026"
-    },
-    {
-      "title": "How Artemis Security runs 69x faster detection queries with ClickHouse Cloud",
-      "url": "https://clickhouse.com/blog/artemis-security-real-time-threat-detection",
       "date": "Jul 01, 2026"
     }
   ]
