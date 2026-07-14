@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-07-13T02:39:47.762641",
+  "updated_at": "2026-07-14T02:13:19.498893",
   "posts": [
+    {
+      "title": "How Insider One uses ClickHouse Cloud to power real-time customer engagement at scale",
+      "url": "https://clickhouse.com/blog/insiderone-customer-data-platform",
+      "date": "Jul 13, 2026"
+    },
     {
       "title": "ClickHouse on Docker Hardened Images",
       "url": "https://clickhouse.com/blog/docker-hardened-images",
@@ -44,11 +49,6 @@
     {
       "title": "ClickHouse Release 26.6",
       "url": "https://clickhouse.com/blog/clickhouse-release-26-06",
-      "date": "Jul 03, 2026"
-    },
-    {
-      "title": "ClickHouse Agents is now available for Managed Postgres",
-      "url": "https://clickhouse.com/blog/clickhouse-agents-managed-postgres",
       "date": "Jul 03, 2026"
     }
   ]
