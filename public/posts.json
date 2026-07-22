@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-07-21T02:28:30.716945",
+  "updated_at": "2026-07-22T02:27:07.721973",
   "posts": [
+    {
+      "title": "Migrate Datadog telemetry with the OpenTelemetry Collector",
+      "url": "https://clickhouse.com/blog/datadog-receiver-opentelemetry-collector",
+      "date": "Jul 21, 2026"
+    },
+    {
+      "title": "PostgresBench: Measuring the impact of High Availability on Managed Postgres performance",
+      "url": "https://clickhouse.com/blog/postgresbench-ha",
+      "date": "Jul 21, 2026"
+    },
+    {
+      "title": "ClickHouse announced as Principal Partner and Front of Shirt Sponsor of Fulham Football Club",
+      "url": "https://clickhouse.com/blog/clickhouse-announced-principal-partner-sponsor-fulham-fc",
+      "date": "Jul 21, 2026"
+    },
     {
       "title": "July 2026 newsletter",
       "url": "https://clickhouse.com/blog/202607-newsletter",
@@ -35,21 +50,6 @@
       "title": "How Insider One uses ClickHouse Cloud to power real-time customer engagement at scale",
       "url": "https://clickhouse.com/blog/insiderone-customer-data-platform",
       "date": "Jul 13, 2026"
-    },
-    {
-      "title": "ClickHouse on Docker Hardened Images",
-      "url": "https://clickhouse.com/blog/docker-hardened-images",
-      "date": "Jul 10, 2026"
-    },
-    {
-      "title": "One Driver, One Format, Every Language: ADBC",
-      "url": "https://clickhouse.com/blog/introducing-the-clickhouse-adbc-driver",
-      "date": "Jul 10, 2026"
-    },
-    {
-      "title": "How Trigger.dev is using ClickHouse to scale observability for long-running AI workflows",
-      "url": "https://clickhouse.com/blog/trigger-dev-scaling-observability",
-      "date": "Jul 09, 2026"
     }
   ]
 }
