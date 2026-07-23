@@ -1,6 +1,16 @@
 {
-  "updated_at": "2026-07-22T02:27:07.721973",
+  "updated_at": "2026-07-23T02:32:01.916233",
   "posts": [
+    {
+      "title": "Agentic infrastructure with clickhousectl: a distributed ClickStack across three continents",
+      "url": "https://clickhouse.com/blog/agentic-infrastructure-clickhousectl-distributed-clickstack",
+      "date": "Jul 22, 2026"
+    },
+    {
+      "title": "Benchmarking the ClickStack MCP Server with hdx-evals",
+      "url": "https://clickhouse.com/blog/benchmarking-the-clickstack-mcp-server-with-hdx-evals",
+      "date": "Jul 22, 2026"
+    },
     {
       "title": "Migrate Datadog telemetry with the OpenTelemetry Collector",
       "url": "https://clickhouse.com/blog/datadog-receiver-opentelemetry-collector",
@@ -40,16 +50,6 @@
       "title": "@clickhouse/rowbinary: when your library is also a parser compiler",
       "url": "https://clickhouse.com/blog/clickhouse-rowbinary-library-parser-compiler",
       "date": "Jul 14, 2026"
-    },
-    {
-      "title": "How we configure huge pages in ClickHouse Managed Postgres",
-      "url": "https://clickhouse.com/blog/huge-pages-clickhouse-managed-postgres",
-      "date": "Jul 14, 2026"
-    },
-    {
-      "title": "How Insider One uses ClickHouse Cloud to power real-time customer engagement at scale",
-      "url": "https://clickhouse.com/blog/insiderone-customer-data-platform",
-      "date": "Jul 13, 2026"
     }
   ]
 }
