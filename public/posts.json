@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-07-23T02:32:01.916233",
+  "updated_at": "2026-07-24T02:29:01.280147",
   "posts": [
+    {
+      "title": "ClickHouse achieves AWS Small and Medium Business Competency",
+      "url": "https://clickhouse.com/blog/achieves-aws-smb-competency",
+      "date": "Jul 23, 2026"
+    },
     {
       "title": "Agentic infrastructure with clickhousectl: a distributed ClickStack across three continents",
       "url": "https://clickhouse.com/blog/agentic-infrastructure-clickhousectl-distributed-clickstack",
@@ -44,11 +49,6 @@
     {
       "title": "How Bullet uses ClickHouse Cloud to give DeFi's fastest exchange real-time analytics",
       "url": "https://clickhouse.com/blog/bullet-real-time-analytics",
-      "date": "Jul 14, 2026"
-    },
-    {
-      "title": "@clickhouse/rowbinary: when your library is also a parser compiler",
-      "url": "https://clickhouse.com/blog/clickhouse-rowbinary-library-parser-compiler",
       "date": "Jul 14, 2026"
     }
   ]
