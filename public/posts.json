@@ -1,10 +1,20 @@
 {
-  "updated_at": "2026-07-28T02:21:50.519748",
+  "updated_at": "2026-07-29T02:26:17.533817",
   "posts": [
+    {
+      "title": "Why strict memory overcommit matters for Postgres",
+      "url": "https://clickhouse.com/blog/strict-memory-overcommit-for-postgres",
+      "date": "Jul 28, 2026"
+    },
+    {
+      "title": "How Fetch built its flexible agentic analytics tool on ClickHouse Cloud",
+      "url": "https://clickhouse.com/blog/fetch-agentic-analytics",
+      "date": "Jul 28, 2026"
+    },
     {
       "title": "ClickHouse docs relaunch",
       "url": "https://clickhouse.com/blog/clickhouse-docs-on-mintlify",
-      "date": "Jul 27, 2026"
+      "date": "Jul 28, 2026"
     },
     {
       "title": "ClickHouse achieves AWS Small and Medium Business Competency",
@@ -12,13 +22,13 @@
       "date": "Jul 23, 2026"
     },
     {
-      "title": "Agentic infrastructure with clickhousectl: a distributed ClickStack across three continents",
-      "url": "https://clickhouse.com/blog/agentic-infrastructure-clickhousectl-distributed-clickstack",
-      "date": "Jul 22, 2026"
+      "title": "How we build and evaluate our MCP server for SRE agents",
+      "url": "https://clickhouse.com/blog/benchmarking-the-clickstack-mcp-server-with-hdx-evals",
+      "date": "Jul 28, 2026"
     },
     {
-      "title": "Benchmarking the ClickStack MCP Server with hdx-evals",
-      "url": "https://clickhouse.com/blog/benchmarking-the-clickstack-mcp-server-with-hdx-evals",
+      "title": "Agentic infrastructure with clickhousectl: a distributed ClickStack across three continents",
+      "url": "https://clickhouse.com/blog/agentic-infrastructure-clickhousectl-distributed-clickstack",
       "date": "Jul 22, 2026"
     },
     {
@@ -40,16 +50,6 @@
       "title": "July 2026 newsletter",
       "url": "https://clickhouse.com/blog/202607-newsletter",
       "date": "Jul 16, 2026"
-    },
-    {
-      "title": "Why Trainy migrated from Amazon RDS Postgres to ClickHouse Managed Postgres",
-      "url": "https://clickhouse.com/blog/trainy-postgres-managed-by-clickhouse",
-      "date": "Jul 15, 2026"
-    },
-    {
-      "title": "Replacing the HDB: ClickHouse for historical ticker data",
-      "url": "https://clickhouse.com/blog/historical-ticker-data",
-      "date": "Jul 15, 2026"
     }
   ]
 }
