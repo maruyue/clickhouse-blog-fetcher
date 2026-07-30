@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-07-29T02:26:17.533817",
+  "updated_at": "2026-07-30T02:08:05.011387",
   "posts": [
+    {
+      "title": "Instrumenting my espresso machine with OpenTelemetry",
+      "url": "https://clickhouse.com/blog/espresso-machine-observability-with-otel",
+      "date": "Jul 29, 2026"
+    },
     {
       "title": "Why strict memory overcommit matters for Postgres",
       "url": "https://clickhouse.com/blog/strict-memory-overcommit-for-postgres",
@@ -45,11 +50,6 @@
       "title": "ClickHouse announced as Principal Partner and Front of Shirt Sponsor of Fulham Football Club",
       "url": "https://clickhouse.com/blog/clickhouse-announced-principal-partner-sponsor-fulham-fc",
       "date": "Jul 21, 2026"
-    },
-    {
-      "title": "July 2026 newsletter",
-      "url": "https://clickhouse.com/blog/202607-newsletter",
-      "date": "Jul 16, 2026"
     }
   ]
 }
