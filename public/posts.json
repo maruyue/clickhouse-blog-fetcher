@@ -1,6 +1,26 @@
 {
-  "updated_at": "2026-07-30T02:08:05.011387",
+  "updated_at": "2026-07-31T02:36:08.946688",
   "posts": [
+    {
+      "title": "ClickHouse joins the Open Secure AI Alliance",
+      "url": "https://clickhouse.com/blog/open-secure-ai-alliance",
+      "date": "Jul 30, 2026"
+    },
+    {
+      "title": "How Jump Trading uses ClickHouse with Iceberg for analytics",
+      "url": "https://clickhouse.com/blog/jump-trading-uses-clickhouse-with-iceberg",
+      "date": "Jul 30, 2026"
+    },
+    {
+      "title": "Choosing Between ClickStack and Grafana for ClickHouse Observability",
+      "url": "https://clickhouse.com/blog/choosing-between-clickstack-and-grafana-for-clickhouse-observability",
+      "date": "Jul 30, 2026"
+    },
+    {
+      "title": "Benchmarking NVMe-backed Managed Postgres: PlanetScale and ClickHouse",
+      "url": "https://clickhouse.com/blog/benchmarking-nvme-managed-postgres-planetscale-vs-clickhouse",
+      "date": "Jul 30, 2026"
+    },
     {
       "title": "Instrumenting my espresso machine with OpenTelemetry",
       "url": "https://clickhouse.com/blog/espresso-machine-observability-with-otel",
@@ -30,26 +50,6 @@
       "title": "How we build and evaluate our MCP server for SRE agents",
       "url": "https://clickhouse.com/blog/benchmarking-the-clickstack-mcp-server-with-hdx-evals",
       "date": "Jul 28, 2026"
-    },
-    {
-      "title": "Agentic infrastructure with clickhousectl: a distributed ClickStack across three continents",
-      "url": "https://clickhouse.com/blog/agentic-infrastructure-clickhousectl-distributed-clickstack",
-      "date": "Jul 22, 2026"
-    },
-    {
-      "title": "Migrate Datadog telemetry with the OpenTelemetry Collector",
-      "url": "https://clickhouse.com/blog/datadog-receiver-opentelemetry-collector",
-      "date": "Jul 21, 2026"
-    },
-    {
-      "title": "PostgresBench: Measuring the impact of High Availability on Managed Postgres performance",
-      "url": "https://clickhouse.com/blog/postgresbench-ha",
-      "date": "Jul 21, 2026"
-    },
-    {
-      "title": "ClickHouse announced as Principal Partner and Front of Shirt Sponsor of Fulham Football Club",
-      "url": "https://clickhouse.com/blog/clickhouse-announced-principal-partner-sponsor-fulham-fc",
-      "date": "Jul 21, 2026"
     }
   ]
 }
