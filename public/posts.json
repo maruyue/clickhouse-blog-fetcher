@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-08-03T02:35:16.781055",
+  "updated_at": "2026-08-04T02:19:59.356110",
   "posts": [
+    {
+      "title": "Andy Pavlo joins ClickHouse to establish ClickHouse Labs",
+      "url": "https://clickhouse.com/blog/andy-pavlo-joins-clickhouse",
+      "date": "Aug 03, 2026"
+    },
+    {
+      "title": "ClickHouse launches ClickHouse Labs with Andy Pavlo as VP of Database Research",
+      "url": "https://clickhouse.com/blog/andy-pavlo-founding-clickhouse-labs",
+      "date": "Aug 03, 2026"
+    },
+    {
+      "title": "I created a playground for 110 database systems",
+      "url": "https://clickhouse.com/blog/clickbench-playground",
+      "date": "Aug 03, 2026"
+    },
     {
       "title": "What's new in clickhousectl v0.4.0",
       "url": "https://clickhouse.com/blog/clickhousectl-v0-4-0",
@@ -35,21 +50,6 @@
       "title": "Why strict memory overcommit matters for Postgres",
       "url": "https://clickhouse.com/blog/strict-memory-overcommit-for-postgres",
       "date": "Jul 28, 2026"
-    },
-    {
-      "title": "How Fetch built its flexible agentic analytics tool on ClickHouse Cloud",
-      "url": "https://clickhouse.com/blog/fetch-agentic-analytics",
-      "date": "Jul 28, 2026"
-    },
-    {
-      "title": "ClickHouse docs relaunch",
-      "url": "https://clickhouse.com/blog/clickhouse-docs-on-mintlify",
-      "date": "Jul 28, 2026"
-    },
-    {
-      "title": "ClickHouse achieves AWS Small and Medium Business Competency",
-      "url": "https://clickhouse.com/blog/achieves-aws-smb-competency",
-      "date": "Jul 23, 2026"
     }
   ]
 }
