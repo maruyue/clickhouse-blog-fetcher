@@ -1,10 +1,20 @@
 {
-  "updated_at": "2026-08-04T02:19:59.356110",
+  "updated_at": "2026-08-05T02:14:34.363826",
   "posts": [
     {
       "title": "Andy Pavlo joins ClickHouse to establish ClickHouse Labs",
       "url": "https://clickhouse.com/blog/andy-pavlo-joins-clickhouse",
       "date": "Aug 03, 2026"
+    },
+    {
+      "title": "How Mercado Libre rebuilt its observability platform on ClickHouse Cloud with 50x faster trace queries",
+      "url": "https://clickhouse.com/blog/mercado-libre-observability-on-clickhouse-cloud",
+      "date": "Aug 04, 2026"
+    },
+    {
+      "title": "Fixed cadence to seconds: making ClickHouse Cloud autoscaling more reactive",
+      "url": "https://clickhouse.com/blog/making-clickhouse-cloud-autoscaling-more-reactive",
+      "date": "Aug 04, 2026"
     },
     {
       "title": "ClickHouse launches ClickHouse Labs with Andy Pavlo as VP of Database Research",
@@ -40,16 +50,6 @@
       "title": "Benchmarking NVMe-backed Managed Postgres: PlanetScale and ClickHouse",
       "url": "https://clickhouse.com/blog/benchmarking-nvme-managed-postgres-planetscale-vs-clickhouse",
       "date": "Jul 30, 2026"
-    },
-    {
-      "title": "Instrumenting my espresso machine with OpenTelemetry",
-      "url": "https://clickhouse.com/blog/espresso-machine-observability-with-otel",
-      "date": "Jul 29, 2026"
-    },
-    {
-      "title": "Why strict memory overcommit matters for Postgres",
-      "url": "https://clickhouse.com/blog/strict-memory-overcommit-for-postgres",
-      "date": "Jul 28, 2026"
     }
   ]
 }
