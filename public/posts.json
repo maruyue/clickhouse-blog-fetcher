@@ -1,10 +1,15 @@
 {
-  "updated_at": "2026-08-05T02:14:34.363826",
+  "updated_at": "2026-08-06T02:22:32.918646",
   "posts": [
     {
       "title": "Andy Pavlo joins ClickHouse to establish ClickHouse Labs",
       "url": "https://clickhouse.com/blog/andy-pavlo-joins-clickhouse",
       "date": "Aug 03, 2026"
+    },
+    {
+      "title": "What is WAL backpressure, and why does ClickHouse Managed Postgres need it?",
+      "url": "https://clickhouse.com/blog/wal-backpressure-clickhouse-managed-postgres",
+      "date": "Aug 05, 2026"
     },
     {
       "title": "How Mercado Libre rebuilt its observability platform on ClickHouse Cloud with 50x faster trace queries",
@@ -44,11 +49,6 @@
     {
       "title": "Choosing Between ClickStack and Grafana for ClickHouse Observability",
       "url": "https://clickhouse.com/blog/choosing-between-clickstack-and-grafana-for-clickhouse-observability",
-      "date": "Jul 30, 2026"
-    },
-    {
-      "title": "Benchmarking NVMe-backed Managed Postgres: PlanetScale and ClickHouse",
-      "url": "https://clickhouse.com/blog/benchmarking-nvme-managed-postgres-planetscale-vs-clickhouse",
       "date": "Jul 30, 2026"
     }
   ]
