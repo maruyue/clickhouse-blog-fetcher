@@ -1,11 +1,6 @@
 {
-  "updated_at": "2026-08-07T02:32:18.006230",
+  "updated_at": "2026-08-08T01:21:52.838688",
   "posts": [
-    {
-      "title": "Andy Pavlo joins ClickHouse to establish ClickHouse Labs",
-      "url": "https://clickhouse.com/blog/andy-pavlo-joins-clickhouse",
-      "date": "Aug 03, 2026"
-    },
     {
       "title": "How Physical Intelligence unified its robotics data stack with Postgres managed by ClickHouse",
       "url": "https://clickhouse.com/blog/physical-intelligence-rds-to-clickhouse-managed-postgres",
@@ -39,6 +34,11 @@
     {
       "title": "ClickHouse launches ClickHouse Labs with Andy Pavlo as VP of Database Research",
       "url": "https://clickhouse.com/blog/andy-pavlo-founding-clickhouse-labs",
+      "date": "Aug 03, 2026"
+    },
+    {
+      "title": "Andy Pavlo joins ClickHouse to establish ClickHouse Labs",
+      "url": "https://clickhouse.com/blog/andy-pavlo-joins-clickhouse",
       "date": "Aug 03, 2026"
     },
     {
