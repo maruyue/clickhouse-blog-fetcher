@@ -1,14 +1,19 @@
 {
-  "updated_at": "2026-08-12T01:43:57.354725",
+  "updated_at": "2026-08-13T01:46:30.476790",
   "posts": [
     {
-      "title": "What's new in pg_clickhouse v0.10.0: Subqueries, TPC-H Speedups, C Driver, and Aggregates",
-      "url": "https://clickhouse.com/blog/pg_clickhouse-whats-new-july-2026",
-      "date": "Aug 11, 2026"
+      "title": "How iFood built its agentic security platform on ClickHouse Cloud",
+      "url": "https://clickhouse.com/blog/ifood-agentic-security-platform",
+      "date": "Aug 12, 2026"
     },
     {
       "title": "bitdrift brings ClickHouse-powered mobile observability to ClickStack",
       "url": "https://clickhouse.com/blog/bitdrift-clickhouse-mobile-observability-for-clickstack",
+      "date": "Aug 12, 2026"
+    },
+    {
+      "title": "What's new in pg_clickhouse v0.10.0: Subqueries, TPC-H Speedups, C Driver, and Aggregates",
+      "url": "https://clickhouse.com/blog/pg_clickhouse-whats-new-july-2026",
       "date": "Aug 11, 2026"
     },
     {
@@ -44,11 +49,6 @@
     {
       "title": "How Mercado Libre rebuilt its observability platform on ClickHouse Cloud with 50x faster trace queries",
       "url": "https://clickhouse.com/blog/mercado-libre-observability-on-clickhouse-cloud",
-      "date": "Aug 04, 2026"
-    },
-    {
-      "title": "Fixed cadence to seconds: making ClickHouse Cloud autoscaling more reactive",
-      "url": "https://clickhouse.com/blog/making-clickhouse-cloud-autoscaling-more-reactive",
       "date": "Aug 04, 2026"
     }
   ]
