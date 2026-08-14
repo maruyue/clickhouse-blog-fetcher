@@ -1,6 +1,16 @@
 {
-  "updated_at": "2026-08-13T01:46:30.476790",
+  "updated_at": "2026-08-14T01:44:28.527599",
   "posts": [
+    {
+      "title": "What’s new in the ClickHouse Grafana plugin",
+      "url": "https://clickhouse.com/blog/clickhouse-grafana-plugin-4-20",
+      "date": "Aug 13, 2026"
+    },
+    {
+      "title": "ClickStack and Hud bring runtime intelligence to AI-powered development",
+      "url": "https://clickhouse.com/blog/clickstack-hud-runtime-intelligence",
+      "date": "Aug 13, 2026"
+    },
     {
       "title": "How iFood built its agentic security platform on ClickHouse Cloud",
       "url": "https://clickhouse.com/blog/ifood-agentic-security-platform",
@@ -40,16 +50,6 @@
       "title": "ClickHouse Release 26.7",
       "url": "https://clickhouse.com/blog/clickhouse-release-26-07",
       "date": "Aug 06, 2026"
-    },
-    {
-      "title": "What is WAL backpressure, and why does ClickHouse Managed Postgres need it?",
-      "url": "https://clickhouse.com/blog/wal-backpressure-clickhouse-managed-postgres",
-      "date": "Aug 05, 2026"
-    },
-    {
-      "title": "How Mercado Libre rebuilt its observability platform on ClickHouse Cloud with 50x faster trace queries",
-      "url": "https://clickhouse.com/blog/mercado-libre-observability-on-clickhouse-cloud",
-      "date": "Aug 04, 2026"
     }
   ]
 }
