@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-08-14T01:44:28.527599",
+  "updated_at": "2026-08-15T01:04:50.573652",
   "posts": [
+    {
+      "title": "Announcing support for ClickStack in the ClickHouse Terraform provider",
+      "url": "https://clickhouse.com/blog/clickstack-terraform-provider",
+      "date": "Aug 14, 2026"
+    },
     {
       "title": "What’s new in the ClickHouse Grafana plugin",
       "url": "https://clickhouse.com/blog/clickhouse-grafana-plugin-4-20",
@@ -44,11 +49,6 @@
     {
       "title": "What's new in ClickHouse Managed Postgres: Customer notifications, better observability, faster backups, extensions, and more",
       "url": "https://clickhouse.com/blog/managed-postgres-notifications-observability-backups",
-      "date": "Aug 06, 2026"
-    },
-    {
-      "title": "ClickHouse Release 26.7",
-      "url": "https://clickhouse.com/blog/clickhouse-release-26-07",
       "date": "Aug 06, 2026"
     }
   ]
