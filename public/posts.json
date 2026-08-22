@@ -1,6 +1,16 @@
 {
-  "updated_at": "2026-08-21T01:07:53.534172",
+  "updated_at": "2026-08-22T01:04:48.422685",
   "posts": [
+    {
+      "title": "What else runs on your Postgres server, and how do we stop it from taking the database down?",
+      "url": "https://clickhouse.com/blog/protect-postgres-from-supporting-processes",
+      "date": "Aug 21, 2026"
+    },
+    {
+      "title": "August 2026 newsletter",
+      "url": "https://clickhouse.com/blog/202608-newsletter",
+      "date": "Aug 21, 2026"
+    },
     {
       "title": "POSETTE Talk Recap - Postgres Isn't Slow. Your Storage Is",
       "url": "https://clickhouse.com/blog/posette-talk-recap-postgres-isnt-slow-your-storage-is",
@@ -40,16 +50,6 @@
       "title": "How iFood built its agentic security platform on ClickHouse Cloud",
       "url": "https://clickhouse.com/blog/ifood-agentic-security-platform",
       "date": "Aug 12, 2026"
-    },
-    {
-      "title": "bitdrift brings ClickHouse-powered mobile observability to ClickStack",
-      "url": "https://clickhouse.com/blog/bitdrift-clickhouse-mobile-observability-for-clickstack",
-      "date": "Aug 12, 2026"
-    },
-    {
-      "title": "What's new in pg_clickhouse v0.10.0: Subqueries, TPC-H Speedups, C Driver, and Aggregates",
-      "url": "https://clickhouse.com/blog/pg_clickhouse-whats-new-july-2026",
-      "date": "Aug 11, 2026"
     }
   ]
 }
