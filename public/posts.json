@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-08-24T01:07:20.446457",
+  "updated_at": "2026-08-25T01:06:19.123520",
   "posts": [
+    {
+      "title": "Ensuring reliable OpenTelemetry ingestion at scale",
+      "url": "https://clickhouse.com/blog/reliable-opentelemetry-ingestion-at-scale",
+      "date": "Aug 24, 2026"
+    },
     {
       "title": "What else runs on your Postgres server, and how do we stop it from taking the database down?",
       "url": "https://clickhouse.com/blog/protect-postgres-from-supporting-processes",
@@ -12,13 +17,13 @@
       "date": "Aug 21, 2026"
     },
     {
-      "title": "POSETTE Talk Recap - Postgres Isn't Slow. Your Storage Is",
-      "url": "https://clickhouse.com/blog/posette-talk-recap-postgres-isnt-slow-your-storage-is",
-      "date": "Aug 20, 2026"
-    },
-    {
       "title": "Shopify powers observability for global-scale commerce with ClickHouse",
       "url": "https://clickhouse.com/blog/shopify-observability-at-global-scale",
+      "date": "Aug 24, 2026"
+    },
+    {
+      "title": "POSETTE Talk Recap - Postgres Isn't Slow. Your Storage Is",
+      "url": "https://clickhouse.com/blog/posette-talk-recap-postgres-isnt-slow-your-storage-is",
       "date": "Aug 20, 2026"
     },
     {
@@ -45,11 +50,6 @@
       "title": "ClickStack and Hud bring runtime intelligence to AI-powered development",
       "url": "https://clickhouse.com/blog/clickstack-hud-runtime-intelligence",
       "date": "Aug 13, 2026"
-    },
-    {
-      "title": "How iFood built its agentic security platform on ClickHouse Cloud",
-      "url": "https://clickhouse.com/blog/ifood-agentic-security-platform",
-      "date": "Aug 12, 2026"
     }
   ]
 }
