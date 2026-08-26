@@ -1,10 +1,25 @@
 {
-  "updated_at": "2026-08-25T01:06:19.123520",
+  "updated_at": "2026-08-26T01:08:28.703975",
   "posts": [
+    {
+      "title": "How Suprema Gaming made its data platform agent-ready with ClickHouse Cloud",
+      "url": "https://clickhouse.com/blog/suprema-gaming-agent-ready-platform",
+      "date": "Aug 25, 2026"
+    },
+    {
+      "title": "Read your writes: WAIT FOR in PostgreSQL 19",
+      "url": "https://clickhouse.com/blog/postgresql-19-wait-for-read-your-writes",
+      "date": "Aug 25, 2026"
+    },
+    {
+      "title": "ClickGap: Autonomous QA for ClickHouse",
+      "url": "https://clickhouse.com/blog/clickgap-autonomous-qa-for-clickhouse",
+      "date": "Aug 25, 2026"
+    },
     {
       "title": "Ensuring reliable OpenTelemetry ingestion at scale",
       "url": "https://clickhouse.com/blog/reliable-opentelemetry-ingestion-at-scale",
-      "date": "Aug 24, 2026"
+      "date": "Aug 25, 2026"
     },
     {
       "title": "What else runs on your Postgres server, and how do we stop it from taking the database down?",
@@ -35,21 +50,6 @@
       "title": "What's New with Monitoring in PostgreSQL 19",
       "url": "https://clickhouse.com/blog/postgres-19-monitoring-whats-new",
       "date": "Aug 18, 2026"
-    },
-    {
-      "title": "Announcing support for ClickStack in the ClickHouse Terraform provider",
-      "url": "https://clickhouse.com/blog/clickstack-terraform-provider",
-      "date": "Aug 14, 2026"
-    },
-    {
-      "title": "What’s new in the ClickHouse Grafana plugin",
-      "url": "https://clickhouse.com/blog/clickhouse-grafana-plugin-4-20",
-      "date": "Aug 13, 2026"
-    },
-    {
-      "title": "ClickStack and Hud bring runtime intelligence to AI-powered development",
-      "url": "https://clickhouse.com/blog/clickstack-hud-runtime-intelligence",
-      "date": "Aug 13, 2026"
     }
   ]
 }
