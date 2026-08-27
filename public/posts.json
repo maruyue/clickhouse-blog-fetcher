@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-08-26T01:08:28.703975",
+  "updated_at": "2026-08-27T07:16:51.676251",
   "posts": [
+    {
+      "title": "What's new in the ClickHouse .NET Driver: the road from 1.0 to 1.3",
+      "url": "https://clickhouse.com/blog/whats-new-clickhouse-net-driver-10-to-13",
+      "date": "Aug 26, 2026"
+    },
     {
       "title": "How Suprema Gaming made its data platform agent-ready with ClickHouse Cloud",
       "url": "https://clickhouse.com/blog/suprema-gaming-agent-ready-platform",
@@ -44,11 +49,6 @@
     {
       "title": "How Sony LIV uses ClickHouse Cloud to deliver live streaming analytics at billion-row scale",
       "url": "https://clickhouse.com/blog/sony-liv-real-time-analytics",
-      "date": "Aug 18, 2026"
-    },
-    {
-      "title": "What's New with Monitoring in PostgreSQL 19",
-      "url": "https://clickhouse.com/blog/postgres-19-monitoring-whats-new",
       "date": "Aug 18, 2026"
     }
   ]
