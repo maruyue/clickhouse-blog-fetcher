@@ -1,6 +1,16 @@
 {
-  "updated_at": "2026-08-28T09:30:42.453178",
+  "updated_at": "2026-08-29T05:37:26.631774",
   "posts": [
+    {
+      "title": "A new getting started experience for ClickHouse Managed Postgres",
+      "url": "https://clickhouse.com/blog/clickhouse-managed-postgres-onboarding",
+      "date": "Aug 28, 2026"
+    },
+    {
+      "title": "A universal interface: How QuintoAndar made ClickHouse plug-and-play with managed Postgres",
+      "url": "https://clickhouse.com/blog/quintoandar-managed-postgres",
+      "date": "Aug 28, 2026"
+    },
     {
       "title": "So, is ClickHouse winning the observability wars?",
       "url": "https://clickhouse.com/blog/is-clickhouse-winning-the-observability-wars",
@@ -40,16 +50,6 @@
       "title": "August 2026 newsletter",
       "url": "https://clickhouse.com/blog/202608-newsletter",
       "date": "Aug 21, 2026"
-    },
-    {
-      "title": "Shopify powers observability for global-scale commerce with ClickHouse",
-      "url": "https://clickhouse.com/blog/shopify-observability-at-global-scale",
-      "date": "Aug 24, 2026"
-    },
-    {
-      "title": "POSETTE Talk Recap - Postgres Isn't Slow. Your Storage Is",
-      "url": "https://clickhouse.com/blog/posette-talk-recap-postgres-isnt-slow-your-storage-is",
-      "date": "Aug 20, 2026"
     }
   ]
 }
