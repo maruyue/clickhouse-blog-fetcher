@@ -1,6 +1,16 @@
 {
-  "updated_at": "2026-09-02T02:51:14.409392",
+  "updated_at": "2026-09-03T02:55:01.988626",
   "posts": [
+    {
+      "title": "MySQL CDC connector for ClickPipes is now Generally Available",
+      "url": "https://clickhouse.com/blog/mysql-cdc-connector-for-clickpipes-is-now-generally-available",
+      "date": "Sep 02, 2026"
+    },
+    {
+      "title": "New system views in PostgreSQL 19",
+      "url": "https://clickhouse.com/blog/postgres-19-new-system-views",
+      "date": "Sep 02, 2026"
+    },
     {
       "title": "ClickHouse welcomes RunReveal",
       "url": "https://clickhouse.com/blog/clickhouse-welcomes-runreveal",
@@ -9,11 +19,6 @@
     {
       "title": "The Agentic Analytics Benchmark: Measuring model accuracy and efficiency in analytical agents",
       "url": "https://clickhouse.com/blog/agentic-analytics-benchmark-data-agent-mnist",
-      "date": "Sep 01, 2026"
-    },
-    {
-      "title": "New system views in PostgreSQL 19",
-      "url": "https://clickhouse.com/blog/postgres-19-new-system-views",
       "date": "Sep 01, 2026"
     },
     {
@@ -44,11 +49,6 @@
     {
       "title": "How Suprema Gaming made its data platform agent-ready with ClickHouse Cloud",
       "url": "https://clickhouse.com/blog/suprema-gaming-agent-ready-platform",
-      "date": "Aug 25, 2026"
-    },
-    {
-      "title": "Read your writes: WAIT FOR in PostgreSQL 19",
-      "url": "https://clickhouse.com/blog/postgresql-19-wait-for-read-your-writes",
       "date": "Aug 25, 2026"
     }
   ]
