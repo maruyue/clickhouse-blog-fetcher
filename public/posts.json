@@ -1,6 +1,16 @@
 {
-  "updated_at": "2026-09-04T02:54:24.555237",
+  "updated_at": "2026-09-05T02:56:09.347847",
   "posts": [
+    {
+      "title": "ClickHouse as a streaming HTTP API",
+      "url": "https://clickhouse.com/blog/clickhouse-streaming-http-api",
+      "date": "Sep 04, 2026"
+    },
+    {
+      "title": "Pipelined SQL in ClickHouse 26.8",
+      "url": "https://clickhouse.com/blog/pipelined-sql-26.8",
+      "date": "Sep 04, 2026"
+    },
     {
       "title": "Introducing Scheduled Upgrades in ClickHouse Managed Postgres",
       "url": "https://clickhouse.com/blog/introducing-scheduled-upgrades-in-clickhouse-managed-postgres",
@@ -40,16 +50,6 @@
       "title": "A new getting started experience for ClickHouse Managed Postgres",
       "url": "https://clickhouse.com/blog/clickhouse-managed-postgres-onboarding",
       "date": "Aug 28, 2026"
-    },
-    {
-      "title": "A universal interface: How QuintoAndar made ClickHouse plug-and-play with managed Postgres",
-      "url": "https://clickhouse.com/blog/quintoandar-managed-postgres",
-      "date": "Aug 28, 2026"
-    },
-    {
-      "title": "So, is ClickHouse winning the observability wars?",
-      "url": "https://clickhouse.com/blog/is-clickhouse-winning-the-observability-wars",
-      "date": "Aug 27, 2026"
     }
   ]
 }
