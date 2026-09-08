@@ -1,10 +1,20 @@
 {
-  "updated_at": "2026-09-07T02:52:33.215245",
+  "updated_at": "2026-09-08T03:02:29.921026",
   "posts": [
+    {
+      "title": "How MCP Toolbox turns agent text into ClickHouse vectors",
+      "url": "https://clickhouse.com/blog/mcp-toolbox-clickhouse-vectors",
+      "date": "Sep 07, 2026"
+    },
     {
       "title": "ClickHouse as a streaming HTTP API",
       "url": "https://clickhouse.com/blog/clickhouse-streaming-http-api",
       "date": "Sep 04, 2026"
+    },
+    {
+      "title": "Build a real-time market data app with ClickHouse and Massive",
+      "url": "https://clickhouse.com/blog/build-a-real-time-market-data-app-with-clickhouse-and-polygonio",
+      "date": "Sep 07, 2026"
     },
     {
       "title": "Pipelined SQL in ClickHouse 26.8",
@@ -40,16 +50,6 @@
       "title": "The Agentic Analytics Benchmark: Measuring model accuracy and efficiency in analytical agents",
       "url": "https://clickhouse.com/blog/agentic-analytics-benchmark-data-agent-mnist",
       "date": "Sep 01, 2026"
-    },
-    {
-      "title": "How Uken Games reduces observability costs by 87% with ClickHouse",
-      "url": "https://clickhouse.com/blog/uken-games-clickhouse-observability-stack",
-      "date": "Sep 01, 2026"
-    },
-    {
-      "title": "A new getting started experience for ClickHouse Managed Postgres",
-      "url": "https://clickhouse.com/blog/clickhouse-managed-postgres-onboarding",
-      "date": "Aug 28, 2026"
     }
   ]
 }
