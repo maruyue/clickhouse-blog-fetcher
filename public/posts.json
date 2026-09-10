@@ -1,10 +1,20 @@
 {
-  "updated_at": "2026-09-09T03:03:43.521986",
+  "updated_at": "2026-09-10T03:04:13.317229",
   "posts": [
+    {
+      "title": "ClickHouse Cloud vs. Snowflake: What drives the real-time performance-per-dollar gap",
+      "url": "https://clickhouse.com/blog/clickhouse-vs-snowflake-real-time-performance-per-dollar",
+      "date": "Sep 09, 2026"
+    },
+    {
+      "title": "Announcing ClickHouse Managed Postgres on Google Cloud",
+      "url": "https://clickhouse.com/blog/postgres-managed-by-clickhouse-gcp-private-preview",
+      "date": "Sep 09, 2026"
+    },
     {
       "title": "Measuring real-time performance per dollar under continuous load: CostBench’s first end-to-end results",
       "url": "https://clickhouse.com/blog/costbench-real-time-performance-per-dollar",
-      "date": "Sep 08, 2026"
+      "date": "Sep 09, 2026"
     },
     {
       "title": "Introducing chdb Postgres extension: High-performance imports from cloud storage",
@@ -40,16 +50,6 @@
       "title": "From Neon Postgres to ClickHouse Managed Postgres",
       "url": "https://clickhouse.com/blog/neon-to-clickhouse-managed-postgres",
       "date": "Sep 03, 2026"
-    },
-    {
-      "title": "MySQL CDC connector for ClickPipes is now Generally Available",
-      "url": "https://clickhouse.com/blog/mysql-cdc-connector-for-clickpipes-is-now-generally-available",
-      "date": "Sep 02, 2026"
-    },
-    {
-      "title": "New system views in PostgreSQL 19",
-      "url": "https://clickhouse.com/blog/postgres-19-new-system-views",
-      "date": "Sep 02, 2026"
     }
   ]
 }
