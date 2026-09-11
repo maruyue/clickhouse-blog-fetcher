@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-09-10T03:04:13.317229",
+  "updated_at": "2026-09-11T02:59:29.178597",
   "posts": [
+    {
+      "title": "Introducing WalShadow: Sub-second Postgres replication to ClickHouse from physical WAL",
+      "url": "https://clickhouse.com/blog/introducing-walshadow",
+      "date": "Sep 10, 2026"
+    },
+    {
+      "title": "ClickHouse is a launch partner for the Data agent in ChatGPT Work",
+      "url": "https://clickhouse.com/blog/chatgpt-data-plugin",
+      "date": "Sep 10, 2026"
+    },
+    {
+      "title": "Announcing On-Demand Compute: Instant compute for your most intensive workloads",
+      "url": "https://clickhouse.com/blog/on-demand-compute",
+      "date": "Sep 10, 2026"
+    },
     {
       "title": "ClickHouse Cloud vs. Snowflake: What drives the real-time performance-per-dollar gap",
       "url": "https://clickhouse.com/blog/clickhouse-vs-snowflake-real-time-performance-per-dollar",
@@ -9,7 +24,7 @@
     {
       "title": "Announcing ClickHouse Managed Postgres on Google Cloud",
       "url": "https://clickhouse.com/blog/postgres-managed-by-clickhouse-gcp-private-preview",
-      "date": "Sep 09, 2026"
+      "date": "Sep 10, 2026"
     },
     {
       "title": "Measuring real-time performance per dollar under continuous load: CostBench’s first end-to-end results",
@@ -35,21 +50,6 @@
       "title": "Build a real-time market data app with ClickHouse and Massive",
       "url": "https://clickhouse.com/blog/build-a-real-time-market-data-app-with-clickhouse-and-polygonio",
       "date": "Sep 07, 2026"
-    },
-    {
-      "title": "Pipelined SQL in ClickHouse 26.8",
-      "url": "https://clickhouse.com/blog/pipelined-sql-26.8",
-      "date": "Sep 04, 2026"
-    },
-    {
-      "title": "Introducing Scheduled Upgrades in ClickHouse Managed Postgres",
-      "url": "https://clickhouse.com/blog/introducing-scheduled-upgrades-in-clickhouse-managed-postgres",
-      "date": "Sep 03, 2026"
-    },
-    {
-      "title": "From Neon Postgres to ClickHouse Managed Postgres",
-      "url": "https://clickhouse.com/blog/neon-to-clickhouse-managed-postgres",
-      "date": "Sep 03, 2026"
     }
   ]
 }
