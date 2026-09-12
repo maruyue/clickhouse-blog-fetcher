@@ -1,6 +1,26 @@
 {
-  "updated_at": "2026-09-11T02:59:29.178597",
+  "updated_at": "2026-09-12T03:06:50.048365",
   "posts": [
+    {
+      "title": "AI Functions in ClickHouse: Upgrade your SQL to the AI age",
+      "url": "https://clickhouse.com/blog/ai-functions-in-clickhouse",
+      "date": "Sep 11, 2026"
+    },
+    {
+      "title": "Loading Parquet data into MySQL with ClickHouse",
+      "url": "https://clickhouse.com/blog/parquet-to-mysql-with-clickhouse",
+      "date": "Sep 11, 2026"
+    },
+    {
+      "title": "ClickHouse release 26.8",
+      "url": "https://clickhouse.com/blog/clickhouse-release-26-08",
+      "date": "Sep 11, 2026"
+    },
+    {
+      "title": "ClickHouse Cloud vs. Snowflake: What drives the real-time performance-per-dollar gap",
+      "url": "https://clickhouse.com/blog/clickhouse-vs-snowflake-real-time-performance-per-dollar",
+      "date": "Sep 11, 2026"
+    },
     {
       "title": "Introducing WalShadow: Sub-second Postgres replication to ClickHouse from physical WAL",
       "url": "https://clickhouse.com/blog/introducing-walshadow",
@@ -17,11 +37,6 @@
       "date": "Sep 10, 2026"
     },
     {
-      "title": "ClickHouse Cloud vs. Snowflake: What drives the real-time performance-per-dollar gap",
-      "url": "https://clickhouse.com/blog/clickhouse-vs-snowflake-real-time-performance-per-dollar",
-      "date": "Sep 09, 2026"
-    },
-    {
       "title": "Announcing ClickHouse Managed Postgres on Google Cloud",
       "url": "https://clickhouse.com/blog/postgres-managed-by-clickhouse-gcp-private-preview",
       "date": "Sep 10, 2026"
@@ -29,27 +44,12 @@
     {
       "title": "Measuring real-time performance per dollar under continuous load: CostBench’s first end-to-end results",
       "url": "https://clickhouse.com/blog/costbench-real-time-performance-per-dollar",
-      "date": "Sep 09, 2026"
+      "date": "Sep 11, 2026"
     },
     {
       "title": "Introducing chdb Postgres extension: High-performance imports from cloud storage",
       "url": "https://clickhouse.com/blog/introducing-chdb-postgres",
       "date": "Sep 08, 2026"
-    },
-    {
-      "title": "How MCP Toolbox turns agent text into ClickHouse vectors",
-      "url": "https://clickhouse.com/blog/mcp-toolbox-clickhouse-vectors",
-      "date": "Sep 07, 2026"
-    },
-    {
-      "title": "ClickHouse as a streaming HTTP API",
-      "url": "https://clickhouse.com/blog/clickhouse-streaming-http-api",
-      "date": "Sep 04, 2026"
-    },
-    {
-      "title": "Build a real-time market data app with ClickHouse and Massive",
-      "url": "https://clickhouse.com/blog/build-a-real-time-market-data-app-with-clickhouse-and-polygonio",
-      "date": "Sep 07, 2026"
     }
   ]
 }
