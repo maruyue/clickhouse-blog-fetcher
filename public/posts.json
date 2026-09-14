@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-13T03:08:26.802585",
+  "updated_at": "2026-09-14T03:21:31.036626",
   "posts": [
     {
       "title": "AI Functions in ClickHouse: Upgrade your SQL to the AI age",
@@ -39,7 +39,7 @@
     {
       "title": "Announcing ClickHouse Managed Postgres on Google Cloud",
       "url": "https://clickhouse.com/blog/postgres-managed-by-clickhouse-gcp-private-preview",
-      "date": "Sep 10, 2026"
+      "date": "Sep 13, 2026"
     },
     {
       "title": "Measuring real-time performance per dollar under continuous load: CostBench’s first end-to-end results",
