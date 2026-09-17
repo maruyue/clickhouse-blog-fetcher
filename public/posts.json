@@ -1,10 +1,15 @@
 {
-  "updated_at": "2026-09-16T03:18:58.320507",
+  "updated_at": "2026-09-17T03:24:46.071675",
   "posts": [
+    {
+      "title": "ClickHouse is now available on the dbt platform",
+      "url": "https://clickhouse.com/blog/clickhouse-is-now-available-on-the-dbt-platform",
+      "date": "Sep 16, 2026"
+    },
     {
       "title": "Introducing ClickHouse's new TimeSeries Engine: Your drop-In Prometheus replacement",
       "url": "https://clickhouse.com/blog/introducing-promql",
-      "date": "Sep 15, 2026"
+      "date": "Sep 16, 2026"
     },
     {
       "title": "Replica-aware routing public beta",
@@ -45,11 +50,6 @@
       "title": "Announcing On-Demand Compute: Instant compute for your most intensive workloads",
       "url": "https://clickhouse.com/blog/on-demand-compute",
       "date": "Sep 10, 2026"
-    },
-    {
-      "title": "Announcing ClickHouse Managed Postgres on Google Cloud",
-      "url": "https://clickhouse.com/blog/postgres-managed-by-clickhouse-gcp-private-preview",
-      "date": "Sep 13, 2026"
     }
   ]
 }
