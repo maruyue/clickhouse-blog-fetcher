@@ -1,10 +1,30 @@
 {
-  "updated_at": "2026-09-17T03:24:46.071675",
+  "updated_at": "2026-09-18T03:10:53.761442",
   "posts": [
+    {
+      "title": "The official ClickHouse provider for Apache Airflow is now available",
+      "url": "https://clickhouse.com/blog/clickhouse-airflow-provider",
+      "date": "Sep 17, 2026"
+    },
+    {
+      "title": "September 2026 newsletter",
+      "url": "https://clickhouse.com/blog/202609-newsletter",
+      "date": "Sep 17, 2026"
+    },
+    {
+      "title": "Postgres week in the Netherlands: PGDay Lowlands & Percona Live 2026",
+      "url": "https://clickhouse.com/blog/postgres-week-in-the-netherlands-pgday-lowlands-percona-live-2026",
+      "date": "Sep 17, 2026"
+    },
+    {
+      "title": "What's new in ClickStack - Aug ’26",
+      "url": "https://clickhouse.com/blog/whats-new-in-clickstack-august-2026",
+      "date": "Sep 17, 2026"
+    },
     {
       "title": "ClickHouse is now available on the dbt platform",
       "url": "https://clickhouse.com/blog/clickhouse-is-now-available-on-the-dbt-platform",
-      "date": "Sep 16, 2026"
+      "date": "Sep 17, 2026"
     },
     {
       "title": "Introducing ClickHouse's new TimeSeries Engine: Your drop-In Prometheus replacement",
@@ -30,26 +50,6 @@
       "title": "ClickHouse release 26.8",
       "url": "https://clickhouse.com/blog/clickhouse-release-26-08",
       "date": "Sep 11, 2026"
-    },
-    {
-      "title": "ClickHouse Cloud vs. Snowflake: What drives the real-time performance-per-dollar gap",
-      "url": "https://clickhouse.com/blog/clickhouse-vs-snowflake-real-time-performance-per-dollar",
-      "date": "Sep 11, 2026"
-    },
-    {
-      "title": "Introducing WalShadow: Sub-second Postgres replication to ClickHouse from physical WAL",
-      "url": "https://clickhouse.com/blog/introducing-walshadow",
-      "date": "Sep 10, 2026"
-    },
-    {
-      "title": "ClickHouse is a launch partner for the Data agent in ChatGPT Work",
-      "url": "https://clickhouse.com/blog/chatgpt-data-plugin",
-      "date": "Sep 10, 2026"
-    },
-    {
-      "title": "Announcing On-Demand Compute: Instant compute for your most intensive workloads",
-      "url": "https://clickhouse.com/blog/on-demand-compute",
-      "date": "Sep 10, 2026"
     }
   ]
 }
