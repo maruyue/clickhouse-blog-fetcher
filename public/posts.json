@@ -1,10 +1,15 @@
 {
-  "updated_at": "2026-09-18T03:10:53.761442",
+  "updated_at": "2026-09-19T03:07:15.366715",
   "posts": [
+    {
+      "title": "Postgres week in the Netherlands: PGDay Lowlands & Percona Live 2026",
+      "url": "https://clickhouse.com/blog/postgres-week-in-the-netherlands-pgday-lowlands-percona-live-2026",
+      "date": "Sep 18, 2026"
+    },
     {
       "title": "The official ClickHouse provider for Apache Airflow is now available",
       "url": "https://clickhouse.com/blog/clickhouse-airflow-provider",
-      "date": "Sep 17, 2026"
+      "date": "Sep 18, 2026"
     },
     {
       "title": "September 2026 newsletter",
@@ -12,18 +17,13 @@
       "date": "Sep 17, 2026"
     },
     {
-      "title": "Postgres week in the Netherlands: PGDay Lowlands & Percona Live 2026",
-      "url": "https://clickhouse.com/blog/postgres-week-in-the-netherlands-pgday-lowlands-percona-live-2026",
-      "date": "Sep 17, 2026"
+      "title": "ClickHouse is now available on the dbt platform",
+      "url": "https://clickhouse.com/blog/clickhouse-is-now-available-on-the-dbt-platform",
+      "date": "Sep 18, 2026"
     },
     {
       "title": "What's new in ClickStack - Aug ’26",
       "url": "https://clickhouse.com/blog/whats-new-in-clickstack-august-2026",
-      "date": "Sep 17, 2026"
-    },
-    {
-      "title": "ClickHouse is now available on the dbt platform",
-      "url": "https://clickhouse.com/blog/clickhouse-is-now-available-on-the-dbt-platform",
       "date": "Sep 17, 2026"
     },
     {
