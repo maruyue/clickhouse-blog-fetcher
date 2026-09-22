@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-09-21T03:18:32.993640",
+  "updated_at": "2026-09-22T03:18:11.400123",
   "posts": [
+    {
+      "title": "Postgres on NVMe: performance and the convergence of transactions and analytics",
+      "url": "https://clickhouse.com/blog/postgres-on-nvme",
+      "date": "Sep 21, 2026"
+    },
     {
       "title": "Postgres week in the Netherlands: PGDay Lowlands & Percona Live 2026",
       "url": "https://clickhouse.com/blog/postgres-week-in-the-netherlands-pgday-lowlands-percona-live-2026",
@@ -44,11 +49,6 @@
     {
       "title": "Loading Parquet data into MySQL with ClickHouse",
       "url": "https://clickhouse.com/blog/parquet-to-mysql-with-clickhouse",
-      "date": "Sep 11, 2026"
-    },
-    {
-      "title": "ClickHouse release 26.8",
-      "url": "https://clickhouse.com/blog/clickhouse-release-26-08",
       "date": "Sep 11, 2026"
     }
   ]
