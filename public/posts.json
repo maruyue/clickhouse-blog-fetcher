@@ -1,6 +1,16 @@
 {
-  "updated_at": "2026-09-22T03:18:11.400123",
+  "updated_at": "2026-09-23T03:18:41.368752",
   "posts": [
+    {
+      "title": "ClickHouse appoints Mike Scarpelli, former Snowflake and ServiceNow CFO, to Board of Directors",
+      "url": "https://clickhouse.com/blog/clickhouse-appoints-mike-scarpelli-to-board-of-directors",
+      "date": "Sep 22, 2026"
+    },
+    {
+      "title": "How Fountain rebuilt its data plane on ClickHouse Cloud to power Cue, the Frontline Superintelligence",
+      "url": "https://clickhouse.com/blog/fountain-agentic-ai-for-high-volume-hiring",
+      "date": "Sep 22, 2026"
+    },
     {
       "title": "Postgres on NVMe: performance and the convergence of transactions and analytics",
       "url": "https://clickhouse.com/blog/postgres-on-nvme",
@@ -40,16 +50,6 @@
       "title": "Replica-aware routing public beta",
       "url": "https://clickhouse.com/blog/replica-aware-routing-public-beta",
       "date": "Sep 15, 2026"
-    },
-    {
-      "title": "AI Functions in ClickHouse: Upgrade your SQL to the AI age",
-      "url": "https://clickhouse.com/blog/ai-functions-in-clickhouse",
-      "date": "Sep 11, 2026"
-    },
-    {
-      "title": "Loading Parquet data into MySQL with ClickHouse",
-      "url": "https://clickhouse.com/blog/parquet-to-mysql-with-clickhouse",
-      "date": "Sep 11, 2026"
     }
   ]
 }
