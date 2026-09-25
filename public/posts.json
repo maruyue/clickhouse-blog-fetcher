@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-09-24T03:08:24.170457",
+  "updated_at": "2026-09-25T03:26:31.811403",
   "posts": [
+    {
+      "title": "ClickHouse release 26.9",
+      "url": "https://clickhouse.com/blog/clickhouse-release-26-09",
+      "date": "Sep 24, 2026"
+    },
     {
       "title": "ClickHouse appoints Mike Scarpelli, former Snowflake and ServiceNow CFO, to Board of Directors",
       "url": "https://clickhouse.com/blog/clickhouse-appoints-mike-scarpelli-to-board-of-directors",
@@ -45,11 +50,6 @@
       "title": "Introducing ClickHouse's new TimeSeries Engine: Your drop-In Prometheus replacement",
       "url": "https://clickhouse.com/blog/introducing-promql",
       "date": "Sep 16, 2026"
-    },
-    {
-      "title": "Replica-aware routing public beta",
-      "url": "https://clickhouse.com/blog/replica-aware-routing-public-beta",
-      "date": "Sep 15, 2026"
     }
   ]
 }
