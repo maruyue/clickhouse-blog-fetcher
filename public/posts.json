@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-09-30T03:58:04.667397",
+  "updated_at": "2026-10-01T04:08:27.727616",
   "posts": [
+    {
+      "title": "Introducing SCIM Provisioning in ClickHouse Cloud",
+      "url": "https://clickhouse.com/blog/introducing-scim-provisioning-in-clickhouse-cloud",
+      "date": "Sep 30, 2026"
+    },
+    {
+      "title": "pg_clickhouse & chdb updates: Encoding, nesting, and types",
+      "url": "https://clickhouse.com/blog/pg_clickhouse-chdb",
+      "date": "Sep 30, 2026"
+    },
+    {
+      "title": "Memory safety for Postgres extensions in C/C++",
+      "url": "https://clickhouse.com/blog/memory-safety-postgres-extensions-c-cpp",
+      "date": "Sep 30, 2026"
+    },
     {
       "title": "ClickHouse Workload for Microsoft Fabric: sub-second analytics on OneLake, now in public preview",
       "url": "https://clickhouse.com/blog/clickhouse-for-microsoft-fabric",
@@ -35,21 +50,6 @@
       "title": "ClickHouse appoints Mike Scarpelli, former Snowflake and ServiceNow CFO, to Board of Directors",
       "url": "https://clickhouse.com/blog/clickhouse-appoints-mike-scarpelli-to-board-of-directors",
       "date": "Sep 22, 2026"
-    },
-    {
-      "title": "How Fountain rebuilt its data plane on ClickHouse Cloud to power Cue, the Frontline Superintelligence",
-      "url": "https://clickhouse.com/blog/fountain-agentic-ai-for-high-volume-hiring",
-      "date": "Sep 22, 2026"
-    },
-    {
-      "title": "Postgres on NVMe: performance and the convergence of transactions and analytics",
-      "url": "https://clickhouse.com/blog/postgres-on-nvme",
-      "date": "Sep 21, 2026"
-    },
-    {
-      "title": "Postgres week in the Netherlands: PGDay Lowlands & Percona Live 2026",
-      "url": "https://clickhouse.com/blog/postgres-week-in-the-netherlands-pgday-lowlands-percona-live-2026",
-      "date": "Sep 18, 2026"
     }
   ]
 }
