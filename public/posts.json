@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-10-01T04:08:27.727616",
+  "updated_at": "2026-10-02T04:02:34.587765",
   "posts": [
+    {
+      "title": "How LinkedIn extended ClickHouse from distributed tracing to metric discovery and analytics",
+      "url": "https://clickhouse.com/blog/linkedin-observability-at-scale",
+      "date": "Oct 01, 2026"
+    },
     {
       "title": "Introducing SCIM Provisioning in ClickHouse Cloud",
       "url": "https://clickhouse.com/blog/introducing-scim-provisioning-in-clickhouse-cloud",
@@ -45,11 +50,6 @@
       "title": "ClickHouse release 26.9",
       "url": "https://clickhouse.com/blog/clickhouse-release-26-09",
       "date": "Sep 24, 2026"
-    },
-    {
-      "title": "ClickHouse appoints Mike Scarpelli, former Snowflake and ServiceNow CFO, to Board of Directors",
-      "url": "https://clickhouse.com/blog/clickhouse-appoints-mike-scarpelli-to-board-of-directors",
-      "date": "Sep 22, 2026"
     }
   ]
 }
