@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-10-02T04:02:34.587765",
+  "updated_at": "2026-10-03T03:47:19.620177",
   "posts": [
+    {
+      "title": "What is direct I/O, and why does ClickHouse Managed Postgres use it for backups?",
+      "url": "https://clickhouse.com/blog/direct-io-managed-postgres-backups",
+      "date": "Oct 02, 2026"
+    },
     {
       "title": "How LinkedIn extended ClickHouse from distributed tracing to metric discovery and analytics",
       "url": "https://clickhouse.com/blog/linkedin-observability-at-scale",
@@ -45,11 +50,6 @@
       "title": "chDB Durable Layer for agent memory",
       "url": "https://clickhouse.com/blog/chdb-durable-layer-for-agent-memory",
       "date": "Sep 28, 2026"
-    },
-    {
-      "title": "ClickHouse release 26.9",
-      "url": "https://clickhouse.com/blog/clickhouse-release-26-09",
-      "date": "Sep 24, 2026"
     }
   ]
 }
