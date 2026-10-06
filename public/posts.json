@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-10-05T04:02:22.737288",
+  "updated_at": "2026-10-06T04:51:36.914577",
   "posts": [
+    {
+      "title": "Executable UDFs are now generally available on ClickHouse Cloud",
+      "url": "https://clickhouse.com/blog/executable-udfs-generally-available-on-clickhouse-cloud",
+      "date": "Oct 05, 2026"
+    },
     {
       "title": "What is direct I/O, and why does ClickHouse Managed Postgres use it for backups?",
       "url": "https://clickhouse.com/blog/direct-io-managed-postgres-backups",
@@ -44,11 +49,6 @@
     {
       "title": "Can your Postgres survive a bad query?",
       "url": "https://clickhouse.com/blog/can-your-postgres-survive-a-bad-query",
-      "date": "Sep 28, 2026"
-    },
-    {
-      "title": "chDB Durable Layer for agent memory",
-      "url": "https://clickhouse.com/blog/chdb-durable-layer-for-agent-memory",
       "date": "Sep 28, 2026"
     }
   ]
