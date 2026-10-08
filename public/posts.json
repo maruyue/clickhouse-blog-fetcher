@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-10-07T04:18:17.391227",
+  "updated_at": "2026-10-08T04:29:40.947588",
   "posts": [
+    {
+      "title": "🗽 Postgres Summit US 2026 retrospective",
+      "url": "https://clickhouse.com/blog/postgres-summit-us-2026",
+      "date": "Oct 07, 2026"
+    },
     {
       "title": "Why Databricks can’t match ClickHouse Cloud for real-time analytics",
       "url": "https://clickhouse.com/blog/clickhouse-vs-databricks-real-time-performance-per-dollar",
@@ -44,11 +49,6 @@
     {
       "title": "ClickHouse now writes Apache Iceberg tables to Microsoft OneLake",
       "url": "https://clickhouse.com/blog/clickhouse-now-writes-to-microsoft-onelake",
-      "date": "Sep 29, 2026"
-    },
-    {
-      "title": "ClickHouse expands collaboration with Microsoft, bringing Fabric integration, deeper OneLake interoperability, and enterprise deployment flexibility",
-      "url": "https://clickhouse.com/blog/clickhouse-expands-collaboration-with-microsoft",
       "date": "Sep 29, 2026"
     }
   ]
