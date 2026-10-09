@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-10-08T04:29:40.947588",
+  "updated_at": "2026-10-09T04:33:17.938889",
   "posts": [
+    {
+      "title": "How we migrated Clera’s 500 GB production database to ClickHouse Managed Postgres overnight",
+      "url": "https://clickhouse.com/blog/clera-migrates-to-clickhouse-managed-postgres",
+      "date": "Oct 08, 2026"
+    },
+    {
+      "title": "Introducing JWT authentication in ClickHouse Cloud",
+      "url": "https://clickhouse.com/blog/introducing-jwt-authentication-in-clickhouse-cloud",
+      "date": "Oct 08, 2026"
+    },
+    {
+      "title": "Why BigQuery can’t match ClickHouse Cloud for real-time analytics",
+      "url": "https://clickhouse.com/blog/clickhouse-vs-bigquery-real-time-performance-per-dollar",
+      "date": "Oct 08, 2026"
+    },
     {
       "title": "🗽 Postgres Summit US 2026 retrospective",
       "url": "https://clickhouse.com/blog/postgres-summit-us-2026",
@@ -35,21 +50,6 @@
       "title": "pg_clickhouse & chdb updates: Encoding, nesting, and types",
       "url": "https://clickhouse.com/blog/pg_clickhouse-chdb",
       "date": "Sep 30, 2026"
-    },
-    {
-      "title": "Memory safety for Postgres extensions in C/C++",
-      "url": "https://clickhouse.com/blog/memory-safety-postgres-extensions-c-cpp",
-      "date": "Sep 30, 2026"
-    },
-    {
-      "title": "ClickHouse Workload for Microsoft Fabric: sub-second analytics on OneLake, now in public preview",
-      "url": "https://clickhouse.com/blog/clickhouse-for-microsoft-fabric",
-      "date": "Sep 29, 2026"
-    },
-    {
-      "title": "ClickHouse now writes Apache Iceberg tables to Microsoft OneLake",
-      "url": "https://clickhouse.com/blog/clickhouse-now-writes-to-microsoft-onelake",
-      "date": "Sep 29, 2026"
     }
   ]
 }
