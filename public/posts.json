@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-10-09T04:33:17.938889",
+  "updated_at": "2026-10-10T04:19:10.960953",
   "posts": [
+    {
+      "title": "How iSAM Funds built an options research platform for a 10,000x data problem with ClickHouse Cloud",
+      "url": "https://clickhouse.com/blog/isam-market-data-research-platform",
+      "date": "Oct 09, 2026"
+    },
     {
       "title": "How we migrated Clera’s 500 GB production database to ClickHouse Managed Postgres overnight",
       "url": "https://clickhouse.com/blog/clera-migrates-to-clickhouse-managed-postgres",
@@ -44,11 +49,6 @@
     {
       "title": "Introducing SCIM Provisioning in ClickHouse Cloud",
       "url": "https://clickhouse.com/blog/introducing-scim-provisioning-in-clickhouse-cloud",
-      "date": "Sep 30, 2026"
-    },
-    {
-      "title": "pg_clickhouse & chdb updates: Encoding, nesting, and types",
-      "url": "https://clickhouse.com/blog/pg_clickhouse-chdb",
       "date": "Sep 30, 2026"
     }
   ]
