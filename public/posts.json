@@ -1,6 +1,16 @@
 {
-  "updated_at": "2026-10-13T05:28:02.118466",
+  "updated_at": "2026-10-14T03:31:22.041165",
   "posts": [
+    {
+      "title": "Postgres at Open House NYC",
+      "url": "https://clickhouse.com/blog/postgres-at-open-house-nyc",
+      "date": "Oct 13, 2026"
+    },
+    {
+      "title": "Chasing that 32 ms tail latency in ClickHouse",
+      "url": "https://clickhouse.com/blog/chasing-32ms-tail-latency-clickhouse",
+      "date": "Oct 13, 2026"
+    },
     {
       "title": "How iSAM Funds built an options research platform for a 10,000x data problem with ClickHouse Cloud",
       "url": "https://clickhouse.com/blog/isam-market-data-research-platform",
@@ -40,16 +50,6 @@
       "title": "What is direct I/O, and why does ClickHouse Managed Postgres use it for backups?",
       "url": "https://clickhouse.com/blog/direct-io-managed-postgres-backups",
       "date": "Oct 02, 2026"
-    },
-    {
-      "title": "How LinkedIn extended ClickHouse from distributed tracing to metric discovery and analytics",
-      "url": "https://clickhouse.com/blog/linkedin-observability-at-scale",
-      "date": "Oct 01, 2026"
-    },
-    {
-      "title": "Introducing SCIM Provisioning in ClickHouse Cloud",
-      "url": "https://clickhouse.com/blog/introducing-scim-provisioning-in-clickhouse-cloud",
-      "date": "Sep 30, 2026"
     }
   ]
 }
