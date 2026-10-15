@@ -1,6 +1,16 @@
 {
-  "updated_at": "2026-10-14T03:31:22.041165",
+  "updated_at": "2026-10-15T03:11:08.521143",
   "posts": [
+    {
+      "title": "How Ridgeline unified Iceberg and ClickHouse into one analytics layer for investment management",
+      "url": "https://clickhouse.com/blog/ridgeline-iceberg-clickhouse-cloud",
+      "date": "Oct 14, 2026"
+    },
+    {
+      "title": "Why Redshift Serverless can’t match ClickHouse Cloud for real-time analytics",
+      "url": "https://clickhouse.com/blog/clickhouse-vs-redshift-serverless-real-time-performance-per-dollar",
+      "date": "Oct 14, 2026"
+    },
     {
       "title": "Postgres at Open House NYC",
       "url": "https://clickhouse.com/blog/postgres-at-open-house-nyc",
@@ -40,16 +50,6 @@
       "title": "Why Databricks can’t match ClickHouse Cloud for real-time analytics",
       "url": "https://clickhouse.com/blog/clickhouse-vs-databricks-real-time-performance-per-dollar",
       "date": "Oct 06, 2026"
-    },
-    {
-      "title": "Executable UDFs are now generally available on ClickHouse Cloud",
-      "url": "https://clickhouse.com/blog/executable-udfs-generally-available-on-clickhouse-cloud",
-      "date": "Oct 05, 2026"
-    },
-    {
-      "title": "What is direct I/O, and why does ClickHouse Managed Postgres use it for backups?",
-      "url": "https://clickhouse.com/blog/direct-io-managed-postgres-backups",
-      "date": "Oct 02, 2026"
     }
   ]
 }
