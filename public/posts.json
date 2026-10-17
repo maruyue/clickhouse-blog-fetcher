@@ -1,6 +1,16 @@
 {
-  "updated_at": "2026-10-16T03:07:11.047648",
+  "updated_at": "2026-10-17T02:58:41.673998",
   "posts": [
+    {
+      "title": "Introducing the (blazing fast!) native TCP client for .NET",
+      "url": "https://clickhouse.com/blog/introducing-the-blazing-fast-native-tcp-client-for-net",
+      "date": "Oct 16, 2026"
+    },
+    {
+      "title": "Scaling ClickStack alerting with built-in anomaly detection",
+      "url": "https://clickhouse.com/blog/scaling-clickstack-alerting-anomaly-detection",
+      "date": "Oct 16, 2026"
+    },
     {
       "title": "OLTP is expensive, you can ClickHouse it.",
       "url": "https://clickhouse.com/blog/oltp-is-expensive-you-can-clickhouse-it",
@@ -14,7 +24,7 @@
     {
       "title": "Why Redshift Serverless can’t match ClickHouse Cloud for real-time analytics",
       "url": "https://clickhouse.com/blog/clickhouse-vs-redshift-serverless-real-time-performance-per-dollar",
-      "date": "Oct 15, 2026"
+      "date": "Oct 16, 2026"
     },
     {
       "title": "How Ridgeline unified Iceberg and ClickHouse into one analytics layer for investment management",
@@ -22,13 +32,13 @@
       "date": "Oct 14, 2026"
     },
     {
-      "title": "Postgres at Open House NYC",
-      "url": "https://clickhouse.com/blog/postgres-at-open-house-nyc",
-      "date": "Oct 13, 2026"
-    },
-    {
       "title": "Chasing that 32 ms tail latency in ClickHouse",
       "url": "https://clickhouse.com/blog/chasing-32ms-tail-latency-clickhouse",
+      "date": "Oct 16, 2026"
+    },
+    {
+      "title": "Postgres at Open House NYC",
+      "url": "https://clickhouse.com/blog/postgres-at-open-house-nyc",
       "date": "Oct 13, 2026"
     },
     {
@@ -39,17 +49,7 @@
     {
       "title": "Why BigQuery can’t match ClickHouse Cloud for real-time analytics",
       "url": "https://clickhouse.com/blog/clickhouse-vs-bigquery-real-time-performance-per-dollar",
-      "date": "Oct 15, 2026"
-    },
-    {
-      "title": "How we migrated Clera’s 500 GB production database to ClickHouse Managed Postgres overnight",
-      "url": "https://clickhouse.com/blog/clera-migrates-to-clickhouse-managed-postgres",
-      "date": "Oct 08, 2026"
-    },
-    {
-      "title": "Introducing JWT authentication in ClickHouse Cloud",
-      "url": "https://clickhouse.com/blog/introducing-jwt-authentication-in-clickhouse-cloud",
-      "date": "Oct 08, 2026"
+      "date": "Oct 16, 2026"
     }
   ]
 }
