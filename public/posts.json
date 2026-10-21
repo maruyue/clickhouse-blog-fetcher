@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-10-20T03:23:07.988786",
+  "updated_at": "2026-10-21T03:17:50.390693",
   "posts": [
+    {
+      "title": "The Agentic Analytics Benchmark, round two: GPT-6, Claude Opus 5.5, Claude Sonnet 5.5",
+      "url": "https://clickhouse.com/blog/agentic-analytics-benchmark-round-two",
+      "date": "Oct 20, 2026"
+    },
     {
       "title": "Postgres wait events, now in Query Insights",
       "url": "https://clickhouse.com/blog/postgres-wait-events-query-insights",
@@ -45,11 +50,6 @@
       "title": "Postgres at Open House NYC",
       "url": "https://clickhouse.com/blog/postgres-at-open-house-nyc",
       "date": "Oct 13, 2026"
-    },
-    {
-      "title": "How iSAM Funds built an options research platform for a 10,000x data problem with ClickHouse Cloud",
-      "url": "https://clickhouse.com/blog/isam-market-data-research-platform",
-      "date": "Oct 09, 2026"
     }
   ]
 }
