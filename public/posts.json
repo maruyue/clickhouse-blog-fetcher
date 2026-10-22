@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-10-21T03:17:50.390693",
+  "updated_at": "2026-10-22T03:16:29.231711",
   "posts": [
+    {
+      "title": "Trace and evaluate Cursor agents with Langfuse, powered by ClickHouse",
+      "url": "https://clickhouse.com/blog/cursor-agents-with-langfuse",
+      "date": "Oct 21, 2026"
+    },
+    {
+      "title": "Front-end observability at scale: How OpenReplay captures billions of daily events in real time with ClickHouse",
+      "url": "https://clickhouse.com/blog/openreplay-front-end-observability-at-scale-clickhouse",
+      "date": "Oct 21, 2026"
+    },
+    {
+      "title": "Running ClickHouse on NVIDIA Vera CPU: Is your favorite database up to the challenge?",
+      "url": "https://clickhouse.com/blog/clickhouse-performance-on-nvidia-vera",
+      "date": "Oct 21, 2026"
+    },
     {
       "title": "The Agentic Analytics Benchmark, round two: GPT-6, Claude Opus 5.5, Claude Sonnet 5.5",
       "url": "https://clickhouse.com/blog/agentic-analytics-benchmark-round-two",
@@ -35,21 +50,6 @@
       "title": "Why Redshift Serverless can’t match ClickHouse Cloud for real-time analytics",
       "url": "https://clickhouse.com/blog/clickhouse-vs-redshift-serverless-real-time-performance-per-dollar",
       "date": "Oct 16, 2026"
-    },
-    {
-      "title": "How Ridgeline unified Iceberg and ClickHouse into one analytics layer for investment management",
-      "url": "https://clickhouse.com/blog/ridgeline-iceberg-clickhouse-cloud",
-      "date": "Oct 14, 2026"
-    },
-    {
-      "title": "Chasing that 32 ms tail latency in ClickHouse",
-      "url": "https://clickhouse.com/blog/chasing-32ms-tail-latency-clickhouse",
-      "date": "Oct 16, 2026"
-    },
-    {
-      "title": "Postgres at Open House NYC",
-      "url": "https://clickhouse.com/blog/postgres-at-open-house-nyc",
-      "date": "Oct 13, 2026"
     }
   ]
 }
