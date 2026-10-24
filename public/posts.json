@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-10-23T03:22:01.994891",
+  "updated_at": "2026-10-24T03:16:04.067051",
   "posts": [
+    {
+      "title": "How Shipsidekick replaced Neon with ClickHouse Managed Postgres for 10x faster queries and better reliability",
+      "url": "https://clickhouse.com/blog/shipsidekick-neon-to-clickhouse-managed-postgres",
+      "date": "Oct 23, 2026"
+    },
     {
       "title": "Trace and evaluate Cursor agents with Langfuse, powered by ClickHouse",
       "url": "https://clickhouse.com/blog/cursor-agents-with-langfuse",
@@ -45,11 +50,6 @@
       "title": "October 2026 newsletter",
       "url": "https://clickhouse.com/blog/202610-newsletter",
       "date": "Oct 15, 2026"
-    },
-    {
-      "title": "Why Redshift Serverless can’t match ClickHouse Cloud for real-time analytics",
-      "url": "https://clickhouse.com/blog/clickhouse-vs-redshift-serverless-real-time-performance-per-dollar",
-      "date": "Oct 16, 2026"
     }
   ]
 }
