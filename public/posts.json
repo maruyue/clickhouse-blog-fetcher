@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-10-26T03:11:48.032839",
+  "updated_at": "2026-10-27T03:41:48.002566",
   "posts": [
+    {
+      "title": "Expanding Customer Notifications for ClickHouse Managed Postgres",
+      "url": "https://clickhouse.com/blog/expanding-customer-notifications-managed-postgres",
+      "date": "Oct 26, 2026"
+    },
     {
       "title": "How Shipsidekick replaced Neon with ClickHouse Managed Postgres for 10x faster queries and better reliability",
       "url": "https://clickhouse.com/blog/shipsidekick-neon-to-clickhouse-managed-postgres",
@@ -44,11 +49,6 @@
     {
       "title": "OLTP is expensive, you can ClickHouse it.",
       "url": "https://clickhouse.com/blog/oltp-is-expensive-you-can-clickhouse-it",
-      "date": "Oct 15, 2026"
-    },
-    {
-      "title": "October 2026 newsletter",
-      "url": "https://clickhouse.com/blog/202610-newsletter",
       "date": "Oct 15, 2026"
     }
   ]
