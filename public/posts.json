@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-10-29T04:21:56.229276",
+  "updated_at": "2026-10-30T04:21:59.392659",
   "posts": [
+    {
+      "title": "Meet GroeneAI: our autonomous contributor to ClickHouse",
+      "url": "https://clickhouse.com/blog/meet-groeneai-our-autonomous-contributor-to-clickhouse",
+      "date": "Oct 29, 2026"
+    },
     {
       "title": "The new cost-based join optimizer with reordering support for non-inner joins",
       "url": "https://clickhouse.com/blog/the-new-cost-based-join-optimizer-with-reordering-support-for-non-inner-joins",
@@ -45,11 +50,6 @@
       "title": "The Agentic Analytics Benchmark, round two: GPT-6, Claude Opus 5.5, Claude Sonnet 5.5",
       "url": "https://clickhouse.com/blog/agentic-analytics-benchmark-round-two",
       "date": "Oct 20, 2026"
-    },
-    {
-      "title": "Postgres wait events, now in Query Insights",
-      "url": "https://clickhouse.com/blog/postgres-wait-events-query-insights",
-      "date": "Oct 19, 2026"
     }
   ]
 }
