@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-01T04:23:05.687919",
+  "updated_at": "2026-11-02T04:24:49.824373",
   "posts": [
     {
       "title": "Meet GroeneAI: our autonomous contributor to ClickHouse",
@@ -9,7 +9,7 @@
     {
       "title": "The new cost-based join optimizer with reordering support for non-inner joins",
       "url": "https://clickhouse.com/blog/the-new-cost-based-join-optimizer-with-reordering-support-for-non-inner-joins",
-      "date": "Oct 28, 2026"
+      "date": "Nov 01, 2026"
     },
     {
       "title": "Why ClickHouse Cloud wins at real-time analytics",
