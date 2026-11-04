@@ -1,6 +1,16 @@
 {
-  "updated_at": "2026-11-03T05:20:24.189423",
+  "updated_at": "2026-11-04T04:49:52.046439",
   "posts": [
+    {
+      "title": "What's new in ClickStack - September and October '26",
+      "url": "https://clickhouse.com/blog/whats-new-in-clickstack-october-2026",
+      "date": "Nov 03, 2026"
+    },
+    {
+      "title": "Does your application need local data or faster Postgres?",
+      "url": "https://clickhouse.com/blog/does-your-application-need-local-data-or-faster-postgres",
+      "date": "Nov 03, 2026"
+    },
     {
       "title": "How OpenRouter observes, understands, and acts on 740 million LLM requests a day with ClickHouse Cloud",
       "url": "https://clickhouse.com/blog/openrouter-llm-routing-observability-clickhouse-cloud",
@@ -17,14 +27,14 @@
       "date": "Oct 29, 2026"
     },
     {
+      "title": "Why ClickHouse Cloud wins at real-time analytics",
+      "url": "https://clickhouse.com/blog/why-clickhouse-cloud-wins-at-real-time-analytics",
+      "date": "Nov 03, 2026"
+    },
+    {
       "title": "The new cost-based join optimizer with reordering support for non-inner joins",
       "url": "https://clickhouse.com/blog/the-new-cost-based-join-optimizer-with-reordering-support-for-non-inner-joins",
       "date": "Nov 02, 2026"
-    },
-    {
-      "title": "Why ClickHouse Cloud wins at real-time analytics",
-      "url": "https://clickhouse.com/blog/why-clickhouse-cloud-wins-at-real-time-analytics",
-      "date": "Oct 28, 2026"
     },
     {
       "title": "The Agentic Analytics Benchmark: ranking tables and labeling failures with Jev",
@@ -40,16 +50,6 @@
       "title": "How Shipsidekick replaced Neon with ClickHouse Managed Postgres for 10x faster queries and better reliability",
       "url": "https://clickhouse.com/blog/shipsidekick-neon-to-clickhouse-managed-postgres",
       "date": "Oct 23, 2026"
-    },
-    {
-      "title": "Trace and evaluate Cursor agents with Langfuse, powered by ClickHouse",
-      "url": "https://clickhouse.com/blog/cursor-agents-with-langfuse",
-      "date": "Oct 21, 2026"
-    },
-    {
-      "title": "Front-end observability at scale: How OpenReplay captures billions of daily events in real time with ClickHouse",
-      "url": "https://clickhouse.com/blog/openreplay-front-end-observability-at-scale-clickhouse",
-      "date": "Oct 21, 2026"
     }
   ]
 }
