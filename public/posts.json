@@ -1,6 +1,41 @@
 {
-  "updated_at": "2026-11-09T04:39:13.587245",
+  "updated_at": "2026-11-10T05:55:36.134464",
   "posts": [
+    {
+      "title": "The largest expansion of ClickHouse yet",
+      "url": "https://clickhouse.com/blog/announcing-clickhouse-platform-largest-expansion",
+      "date": "Nov 09, 2026"
+    },
+    {
+      "title": "Announcing ClickHouse Observability - fully managed observability on ClickHouse Cloud",
+      "url": "https://clickhouse.com/blog/announcing-clickhouse-observability",
+      "date": "Nov 09, 2026"
+    },
+    {
+      "title": "ClickHouse Unifies Enterprise AI Data Stack with Launch of Expanded Platform",
+      "url": "https://clickhouse.com/blog/clickhouse-unifies-enterprise-ai-data-stack",
+      "date": "Nov 09, 2026"
+    },
+    {
+      "title": "Introducing ClickHouse Security in private preview, built on RunReveal",
+      "url": "https://clickhouse.com/blog/introducing-clickhouse-security-agentic-siem",
+      "date": "Nov 09, 2026"
+    },
+    {
+      "title": "Langfuse launches AI Gateway",
+      "url": "https://clickhouse.com/blog/langfuse-ai-gateway",
+      "date": "Nov 09, 2026"
+    },
+    {
+      "title": "The observability UI as we know it is dead. So what comes next?",
+      "url": "https://clickhouse.com/blog/observability-ui-is-dead-whats-next",
+      "date": "Nov 09, 2026"
+    },
+    {
+      "title": "ClickHouse Managed Postgres goes GA and Xata acquisition brings agentic capabilities to the service",
+      "url": "https://clickhouse.com/blog/managed-postgres-ga-xata-acquisition",
+      "date": "Nov 09, 2026"
+    },
     {
       "title": "What I learned from a month with WalShadow on ClickHouse Managed Postgres",
       "url": "https://clickhouse.com/blog/a-month-with-walshadow-clickhouse-managed-postgres",
@@ -15,41 +50,6 @@
       "title": "MongoDB CDC connector for ClickPipes is now generally available",
       "url": "https://clickhouse.com/blog/mongodb-cdc-connector-clickpipes-ga",
       "date": "Nov 04, 2026"
-    },
-    {
-      "title": "Fencing a Postgres primary that might still be alive",
-      "url": "https://clickhouse.com/blog/fencing-a-postgres-primary-that-might-still-be-alive",
-      "date": "Nov 04, 2026"
-    },
-    {
-      "title": "What's new in ClickStack - September and October '26",
-      "url": "https://clickhouse.com/blog/whats-new-in-clickstack-october-2026",
-      "date": "Nov 03, 2026"
-    },
-    {
-      "title": "Does your application need local data or faster Postgres?",
-      "url": "https://clickhouse.com/blog/does-your-application-need-local-data-or-faster-postgres",
-      "date": "Nov 03, 2026"
-    },
-    {
-      "title": "How OpenRouter observes, understands, and acts on 740 million LLM requests a day with ClickHouse Cloud",
-      "url": "https://clickhouse.com/blog/openrouter-llm-routing-observability-clickhouse-cloud",
-      "date": "Nov 02, 2026"
-    },
-    {
-      "title": "What's new in clickhousectl v0.5.0",
-      "url": "https://clickhouse.com/blog/clickhousectl-v0-5-0",
-      "date": "Nov 02, 2026"
-    },
-    {
-      "title": "Meet GroeneAI: our autonomous contributor to ClickHouse",
-      "url": "https://clickhouse.com/blog/meet-groeneai-our-autonomous-contributor-to-clickhouse",
-      "date": "Oct 29, 2026"
-    },
-    {
-      "title": "Why ClickHouse Cloud wins at real-time analytics",
-      "url": "https://clickhouse.com/blog/why-clickhouse-cloud-wins-at-real-time-analytics",
-      "date": "Nov 03, 2026"
     }
   ]
 }
