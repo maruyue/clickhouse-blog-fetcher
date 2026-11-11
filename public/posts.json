@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-11-10T05:55:36.134464",
+  "updated_at": "2026-11-11T04:41:53.372200",
   "posts": [
-    {
-      "title": "The largest expansion of ClickHouse yet",
-      "url": "https://clickhouse.com/blog/announcing-clickhouse-platform-largest-expansion",
-      "date": "Nov 09, 2026"
-    },
     {
       "title": "Announcing ClickHouse Observability - fully managed observability on ClickHouse Cloud",
       "url": "https://clickhouse.com/blog/announcing-clickhouse-observability",
+      "date": "Nov 10, 2026"
+    },
+    {
+      "title": "The largest expansion of ClickHouse yet",
+      "url": "https://clickhouse.com/blog/announcing-clickhouse-platform-largest-expansion",
       "date": "Nov 09, 2026"
     },
     {
