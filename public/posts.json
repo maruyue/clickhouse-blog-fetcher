@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-11-12T05:44:27.670731",
+  "updated_at": "2026-11-13T05:02:33.077426",
   "posts": [
+    {
+      "title": "Bring high-performance analytics to your lakehouse with ClickHouse and Amazon S3 Tables",
+      "url": "https://clickhouse.com/blog/clickhouse-amazon-s3-tables",
+      "date": "Nov 12, 2026"
+    },
     {
       "title": "Announcing ClickHouse Observability - fully managed observability on ClickHouse Cloud",
       "url": "https://clickhouse.com/blog/announcing-clickhouse-observability",
@@ -45,11 +50,6 @@
       "title": "ClickHouse release 26.10",
       "url": "https://clickhouse.com/blog/clickhouse-release-26-10",
       "date": "Nov 06, 2026"
-    },
-    {
-      "title": "MongoDB CDC connector for ClickPipes is now generally available",
-      "url": "https://clickhouse.com/blog/mongodb-cdc-connector-clickpipes-ga",
-      "date": "Nov 04, 2026"
     }
   ]
 }
