@@ -1,10 +1,25 @@
 {
-  "updated_at": "2026-11-13T05:02:33.077426",
+  "updated_at": "2026-11-14T04:54:51.999060",
   "posts": [
+    {
+      "title": "Introducing Loom: agent memory that keeps up with your code",
+      "url": "https://clickhouse.com/blog/introducing-loom-agent-memory-that-keeps-up-with-your-code",
+      "date": "Nov 13, 2026"
+    },
+    {
+      "title": "SET allow_preview_features = 1: Self-service previews in ClickHouse Cloud",
+      "url": "https://clickhouse.com/blog/self-service-previews-in-clickhouse-cloud",
+      "date": "Nov 13, 2026"
+    },
     {
       "title": "Bring high-performance analytics to your lakehouse with ClickHouse and Amazon S3 Tables",
       "url": "https://clickhouse.com/blog/clickhouse-amazon-s3-tables",
       "date": "Nov 12, 2026"
+    },
+    {
+      "title": "ClickHouse Unifies Enterprise AI Data Stack with Launch of Expanded Platform",
+      "url": "https://clickhouse.com/blog/clickhouse-unifies-enterprise-ai-data-stack",
+      "date": "Nov 13, 2026"
     },
     {
       "title": "Announcing ClickHouse Observability - fully managed observability on ClickHouse Cloud",
@@ -14,11 +29,6 @@
     {
       "title": "The largest expansion of ClickHouse yet",
       "url": "https://clickhouse.com/blog/announcing-clickhouse-platform-largest-expansion",
-      "date": "Nov 09, 2026"
-    },
-    {
-      "title": "ClickHouse Unifies Enterprise AI Data Stack with Launch of Expanded Platform",
-      "url": "https://clickhouse.com/blog/clickhouse-unifies-enterprise-ai-data-stack",
       "date": "Nov 09, 2026"
     },
     {
@@ -40,16 +50,6 @@
       "title": "ClickHouse Managed Postgres goes GA and Xata acquisition brings agentic capabilities to the service",
       "url": "https://clickhouse.com/blog/managed-postgres-ga-xata-acquisition",
       "date": "Nov 09, 2026"
-    },
-    {
-      "title": "What I learned from a month with WalShadow on ClickHouse Managed Postgres",
-      "url": "https://clickhouse.com/blog/a-month-with-walshadow-clickhouse-managed-postgres",
-      "date": "Nov 06, 2026"
-    },
-    {
-      "title": "ClickHouse release 26.10",
-      "url": "https://clickhouse.com/blog/clickhouse-release-26-10",
-      "date": "Nov 06, 2026"
     }
   ]
 }
